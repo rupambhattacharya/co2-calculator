@@ -1,0 +1,18 @@
+# Package directories
+node_modules
+jspm_packages
+coverage
+bower_components
+.npm
+
+# Serverless directories
+.serverless
+
+# Misc files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea
+.env
+*~
+.DS_Store

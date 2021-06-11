@@ -1,0 +1,145 @@
+{
+  "id": "10284294",
+  "sourceSystem": "escenic",
+  "publisherId": "239cd996-9649-48fb-883a-63025d17fd5a",
+  "lastPublishDate": "2019-07-10T12:13:00.000Z",
+  "creationDate": "2019-02-06T09:03:00.000Z",
+  "publishDate": "2019-07-10T11:53:30.000Z",
+  "republishDate": "2019-07-10T12:13:00.000Z",
+  "modificationDate": "2019-07-10T12:32:28.000Z",
+  "overhead": "Zweimonatige Gnadenfrist",
+  "type": "video",
+  "title": "Britisches Kabinett diskutiert insgeheim Brexit-Verzögerung",
+  "headline": "Britisches Kabinett diskutiert insgeheim Brexit-Verzögerung",
+  "active": true,
+  "publisher": "FOCUS Online",
+  "meta": {
+    "partner_label": null,
+    "path": [
+      {
+        "name": "Politik",
+        "element": "politik"
+      },
+      {
+        "name": "Ausland",
+        "element": "ausland"
+      }
+    ],
+    "escenic_source": "STUDIO"
+  },
+  "canonicalUrl": "https://www.focus.de/politik/ausland/zweimonatige-gandenfrist-britisches-kabinett-diskutiert-insgeheim-brexit-verzoegerung_id_10284294.html",
+  "tags": [],
+  "description": "Kurz vor der nächsten Reise von Premierministerin Theresa Mays nach Brüssel gibt es im britischen Kabinett Diskussionen über den Termin für den geplanten EU-Austritt Großbritanniens. Am Donnerstag will May EU-Kommissionschef Jean-Claude Juncker abermals ihre Ideen vorstellen.",
+  "categories": [
+    "Politik",
+    "Ausland"
+  ],
+  "teaser": {
+    "headline": "Bill Gates taucht in Klaas' TV-Talk auf – der fragt ihn, wofür er sein Geld rausschmeißt",
+    "title": "Bill Gates taucht in Klaas' TV-Talk auf – der fragt ihn, wofür er sein Geld rausschmeißt",
+    "description": "\"Late Night Berlin\" - Bill Gates taucht plötzlich in Klaas' TV-Talk auf",
+    "content": [
+      {
+        "type": "image",
+        "title": "",
+        "alt": "",
+        "credit": "Glomex",
+        "nsfw": false,
+        "source": [
+          {
+            "type": "image/jpeg",
+            "height": 720,
+            "width": 1280,
+            "url": "https://p5.focus.de/img/kino_tv/origs9791061/9578436604-w1280-h960-q72-p4/klaas-gates.jpg"
+          }
+        ]
+      }
+    ],
+    "credit": "FOCUS Online/Glomex"
+  },
+  "content": [
+    {
+      "type": "text",
+      "tag": "p",
+      "content": "Das berichtete der gewöhnlich gut informierte konservative «Telegraph» am späten Dienstagabend in seiner Online-Ausgabe, ohne genauere Quellen zu nennen. Falls Mays ausgehandelter Vertrag die Zustimmung des Parlaments erhält, fordern einige Minister demnach eine zweimonatige Gnadenfrist nach dem offiziellen Austrittsdatum am 29. März, um notwendige Gesetze auf den Weg zu bringen. Bis zum 24. Mai solle Großbritannien weiterhin ein EU-Mitglied bleiben wie bisher."
+    },
+    {
+      "type": "text",
+      "tag": "h2",
+      "content": "Mays Minister befürworten Gandenfrist"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "content": "Premierministerin May hatte allerdings wiederholt betont, Großbritannien werde die EU wie geplant am 29. März verlassen. Diskussionen über eine Verzögerung des Austrittsdatums seien kontraproduktiv. Zu den Befürwortern einer Gnadenfrist gehören laut der Zeitung Außenminister Jeremy Hunt, Schatzkanzler Philip Hammond sowie Handelsminister Liam Fox. Alle drei hatten sich bereits zuvor öffentlich für eine Verzögerung ausgesprochen."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "content": "Auf der Suche nach einer Lösung im Brexit-Streit reist May am Donnerstag abermals nach Brüssel, um EU-Kommissionschef Jean-Claude Juncker ihre Ideen vorzustellen. Die Premierministerin hofft nach wie vor auf rechtlich verbindliche Änderungen an der im Brexit-Abkommen vorgesehenen Garantie für eine offene Grenze zwischen dem britischen Nordirland und dem EU-Mitglied Irland. Der sogenannte Backstop gilt als Haupthindernis für eine Ratifizierung des Abkommens."
+    },
+    {
+      "type": "text",
+      "tag": "h2",
+      "content": "Großbritannien unter Zeitdruck"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "content": "May hatte mit der EU ein umfassendes Austrittsabkommen ausgehandelt, das aber Mitte Januar im britischen Parlament keine Mehrheit fand. Unter großem Zeitdruck will sie nun in Brüssel Änderungen durchsetzen, um doch noch die Ratifizierung des Vertrags zuwege zu bringen und einen chaotischen Bruch zu verhindern."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "content": "Sollten die Minister entgegen Mays Linie eine Verzögerung des Austrittsdatums durchsetzen, würde das Datum für den Brexit genau mit der Europawahl zusammenfallen. Zwischen dem 23. und dem 26. Mai wählen die Menschen in den Mitgliedstaaten ein neues EU-Parlament."
+    },
+    {
+      "type": "text",
+      "tag": "h2",
+      "content": "Auch im Video: Kalender enthüllt, wie viel Trump arbeitet - Weißes Haus reagiert ungehalten"
+    },
+    {
+      "type": "video",
+      "title": "Kalender enthüllt, wie viel Trump arbeitet - Weißes Haus reagiert erbost",
+      "alt": "",
+      "source": [
+        {
+          "type": "video/mp4",
+          "url": "https://videos3.focus.de/binary/2019/2/4/19/1497266805843-9777mu/trump_terminkalender_5c58780d60b2081c5b760085_Feb_04_2019_18_07_31-1549303741679.mp4",
+          "mediaResolution": "HD"
+        },
+        {
+          "type": "video/mp4",
+          "url": "https://videos3.focus.de/binary/2019/2/4/19/1497266962686-neuyqj/trump_terminkalender_5c58780d60b2081c5b760085_Feb_04_2019_18_07_31-1549303742294.mp4",
+          "mediaResolution": "SD"
+        }
+      ],
+      "poster": "https://p5.focus.de/img/fotos/origs8148963/2010574657-w3286-h960-q72-p4/trump.jpg",
+      "credit": "FOCUS Online/Wochit",
+      "nsfw": false
+    }
+  ],
+  "mediaObject": {
+    "type": "video",
+    "title": "Britisches Kabinett diskutiert insgeheim bereits über eine Brexit-Verzögerung",
+    "alt": "",
+    "source": [
+      {
+        "type": "video/MP4",
+        "url": "https://videos2.focus.de/wochit/2019/02/06/May_Gnadenfrist-5c5a780e60b2bbbe5ecc6cb0_Feb_06_2019_7_24_06.MP4",
+        "mediaResolution": "HD"
+      },
+      {
+        "type": "video/MP4",
+        "url": "https://videos2.focus.de/wochit/2019/02/06/May_Gnadenfrist-5c5a780e60b2bbbe5ecc6cb0_Feb_06_2019_7_23_48.MP4",
+        "mediaResolution": "SD"
+      }
+    ],
+    "poster": "https://p5.focus.de/img/fotos/origs10250197/9077443418-w800-h960-q72-p4/urn-newsml-dpa-com-20090101-190129-99-773977-large-4-3.jpg",
+    "credit": "FOCUS Online/Wochit",
+    "nsfw": false
+  },
+  "expiryDate": "2019-07-10T12:13:00.000Z",
+  "nsfw": false,
+  "authors": []
+}

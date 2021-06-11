@@ -1,0 +1,27 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es6": true,
+    "node": true
+  },
+  "extends": [
+    "eslint:recommended", 
+    "plugin:jest/recommended",
+    "prettier"
+  ],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 2018
+  },
+  "rules": {
+    "camelcase": [ "error", {
+      "properties": "always"
+    }],
+    "eqeqeq": ["error", "always"],
+    "no-console": [
+      "warn"
+    ],
+    "one-var": ["error", "never"]
+  }
+}

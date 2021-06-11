@@ -1,0 +1,1142 @@
+{
+  "ad_settings": {
+    "mobile_content_ads": [true, true, true],
+    "interstitial": false,
+    "ad_unit_levels": "politik/ausland",
+    "global": true,
+    "cms_ad_keyword": null
+  },
+  "meta_settings": {
+    "date_activated": null,
+    "date_published": "1562759610",
+    "date_lastmodified": "1562761948",
+    "date_created": "1562759217",
+    "esc_src": "STUDIO",
+    "date_republished": "1562760780",
+    "b_is_pn": false,
+    "date_expire": "1562760780",
+    "import_source": null,
+    "esc_src_id": "7ecd1b1a-ba6c-42b7-9897-c26d961a993f"
+  },
+  "path": [
+    {
+      "name": "Politik",
+      "element": "politik"
+    },
+    {
+      "name": "Ausland",
+      "element": "ausland"
+    }
+  ],
+  "ressort_list": ["abnahme/exhomepage", "politik/ausland"],
+  "paging": {
+    "current": 0,
+    "pages": [
+      "https://www.focus.de/politik/ausland/zweimonatige-gandenfrist-britisches-kabinett-diskutiert-insgeheim-brexit-verzoegerung_id_10284294.html"
+    ],
+    "count": 1
+  },
+  "id": "10284294",
+  "type": "video",
+  "config": {},
+  "tracking": {
+    "pageArticleGroup": null,
+    "pageTopicType": null,
+    "pageGuestTitle": null,
+    "pageUniqueArticleTitle": "V: Britisches Kabinett diskutiert insgeheim Brexit-Verzögerung",
+    "articleTitleId": "10284294: Zweimonatige Gnadenfrist: Britisches Kabinett diskutiert insgeheim Brexit-Verzögerung",
+    "pageAuthorRelated": "unknown Author",
+    "pageIdPublisher": null,
+    "pageLevel1": "politik",
+    "pageTypeTitle": null,
+    "pageContentType": "editorial",
+    "pageSpecial": null,
+    "pageAuthor": "unknown Author",
+    "pageGuestAuthor": null,
+    "title": "Britisches Kabinett diskutiert insgeheim Brexit-Verzögerung",
+    "pageName": "/Politik/Ausland/Zweimonatige Gnadenfrist/Britisches Kabinett diskutiert insgeheim Brexit-Verzögerung",
+    "pageAuthorShort": "dk",
+    "ivwSzmContent": "1",
+    "pageLayoutVariantDetail": "full",
+    "pageSource": "video_FOCUS Online/Wochit",
+    "pageGuestRessort": null,
+    "pageArticleTitle": "V: Britisches Kabinett diskutiert insgeheim Brexit-Verzögerung",
+    "vgWortCode": "https://ssl-focus.met.vgwort.de/na/ebac6500c71747c0a3e1a0f183cddba2"
+  },
+  "url": "https://www.focus.de/politik/ausland/zweimonatige-gandenfrist-britisches-kabinett-diskutiert-insgeheim-brexit-verzoegerung_id_10284294.html",
+  "content": {
+    "special": null,
+    "comments": {
+      "count": 5,
+      "title": "Leserkommentare",
+      "items": [
+        {
+          "author_name": "Jens Noack",
+          "text": "den EU Austritt der Briten geführt? Doch einzig das gefasele eines komödiantischen Talentes,namens Boris Johnsen.Wenn bei uns Otto Waalkes als Spitzenkandidat,für welche Partei auch immer,antreten würde und als Wahlziel die Absenkung der Mehrwertsteuer auf 5% propagieren würde,wäre man auch bei 50 % Zustimmung.Frau May hätte Geschichte schreiben können.Was wäre ihr passiert,wenn sie gesagt hätte:Ich mache es nicht.Ich verhandle nicht über einen Austritt,Basta.Diese Integrität hätte ihr den höchsten Respekt des ganzen Volkes gebracht.Solch eine Integrität,solch eine Haltung,besitzt als einziger Politiker auf der Welt,wohl nur Wladimir Putin.Wohl der Grund für die Sympathien für ihn.",
+          "type": "comment",
+          "headline": "Was hat denn überhaupt zur Abstimmung über ",
+          "timestamp": 1549456560
+        }
+      ],
+      "url": "https://m.focus.de/politik/ausland/zweimonatige-gandenfrist-britisches-kabinett-diskutiert-insgeheim-brexit-verzoegerung_id_10284294.html?inappcomments=true"
+    },
+    "related_teasers": {
+      "title": "Mehr zum Thema",
+      "items": [
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549810144000-imgID10304403.jpg",
+            "subtext": null,
+            "width": 940,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Bit Projects",
+            "url": "https://p5.focus.de/img/fotos/origs10304403/1084357062-w940-h960-q72-p4/railgun.jpg",
+            "height": 529
+          },
+          "overhead": "Zerstörer werden mit Railgun ausgerüstet",
+          "video_hd_url": "https://videos3.focus.de/binary/2019/2/10/15/1497266805843-9777mu/Hyperschallaktuell__1_-1549810397400.mp4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10304404: Zerstörer werden mit Railgun ausgerüstet: Superwaffe erstmals getestet: Chinas Hyperschall-Kanone stellt alles in den Schatten",
+            "pageName": "/Politik/Ausland/Zerstörer werden mit Railgun ausgerüstet/Superwaffe erstmals getestet: Chinas Hyperschall-Kanone stellt alles in den Schatten"
+          },
+          "url": "https://www.focus.de/politik/ausland/zerstoerer-werden-mit-railgun-ausgeruestet-superwaffe-erstmals-getestet-chinas-hyperschall-kanone-stellt-alles-in-den-schatten_id_10304404.html",
+          "duration_s": 59,
+          "path": [
+            {
+              "name": "Politik",
+              "element": "politik"
+            },
+            {
+              "name": "Ausland",
+              "element": "ausland"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Ausland",
+          "video_sd_url": "https://videos3.focus.de/binary/2019/2/10/15/1497266962686-neuyqj/Hyperschallaktuell__1_-1549810397895.mp4",
+          "id": "10304404",
+          "text": "Zerstörer werden mit Railgun ausgerüstet - Superwaffe erstmals getestet: Chinas Hyperschall-Kanone stellt alles in den Schatten",
+          "credit": "Bit Projects",
+          "headline": "Superwaffe erstmals getestet: Chinas Hyperschall-Kanone stellt alles in den Schatten",
+          "pre_roll_enabled": true,
+          "timestamp": 1549867500
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549900318000-imgID10309130.jpg",
+            "subtext": null,
+            "width": 1484,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Bit Projects",
+            "url": "https://p5.focus.de/img/fotos/origs10309130/7997474091-w1484-h960-q72-p4/rakete.jpg",
+            "height": 832
+          },
+          "overhead": "Kampf um die Arktis",
+          "video_hd_url": "https://videos3.focus.de/binary/2019/2/11/16/1497266805843-9777mu/BitProjects_20190211_Kampf_um_Arktis-1549899476350.mp4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10309166: Kampf um die Arktis: Russland testet Flugabwehrsystem Tor-M2DT",
+            "pageName": "/Politik/Ausland/Kampf um die Arktis/Russland testet Flugabwehrsystem Tor-M2DT"
+          },
+          "url": "https://www.focus.de/politik/ausland/kampf-um-die-arktis-russland-testet-flugabwehrsystem-tor-m2dt_id_10309166.html",
+          "duration_s": 71,
+          "path": [
+            {
+              "name": "Politik",
+              "element": "politik"
+            },
+            {
+              "name": "Ausland",
+              "element": "ausland"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Ausland",
+          "video_sd_url": "https://videos3.focus.de/binary/2019/2/11/16/1497266962686-neuyqj/BitProjects_20190211_Kampf_um_Arktis-1549899476896.mp4",
+          "id": "10309166",
+          "text": "Kampf um die Arktis - Russland testet Flugabwehrsystem Tor-M2DT",
+          "credit": "Bit Projects",
+          "headline": "Schießt gleichzeitig auf 4 Ziele: Hier testet Russland neues Flugabwehrsystem",
+          "pre_roll_enabled": true,
+          "timestamp": 1549904580
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549922833000-imgID10309720.jpg",
+            "subtext": "Steuer auf Bargeld: \u201eDie lange befürchtete Währungsreform\u201c",
+            "width": 960,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "FOCUS Online/Wochit",
+            "url": "https://p5.focus.de/img/fotos/origs10309720/0056114951-w960-h960-q72-p4/steuer-auf-bargeld-die-lange-befurchtete-5c61ae9f60b222cd7aea6b66-1-feb-11-2019-18-59-28-poster.jpg",
+            "height": 540
+          },
+          "overhead": "Hans-Werner Sinn warnt vor Ausbeutung der Sparer",
+          "video_hd_url": "https://videos2.focus.de/wochit/2019/02/11/Steuer_auf_Bargeld_Die_lange_befurchtete-5c61ae9f60b222cd7aea6b66_Feb_11_2019_18_59_51.MP4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10309721: \u201eKlar, wer hier geschröpft werden soll\u201c: IWF will Bargeld besteuern: Hans-Werner Sinn warnt vor Ausbeutung der Sparer",
+            "pageName": "/Finanzen/Börse/\u201eKlar, wer hier geschröpft werden soll\u201c/IWF will Bargeld besteuern: Hans-Werner Sinn warnt vor Ausbeutung der Sparer"
+          },
+          "url": "https://www.focus.de/finanzen/boerse/hans-werner-sinn-iwf-schlaegt-steuern-auf-bargeld-vor-die-lange-befuerchtete-waehrungsreform_id_10309721.html",
+          "duration_s": 57,
+          "path": [
+            {
+              "name": "Finanzen",
+              "element": "finanzen"
+            },
+            {
+              "name": "Börse",
+              "element": "boerse"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Börse",
+          "video_sd_url": "https://videos2.focus.de/wochit/2019/02/11/Steuer_auf_Bargeld_Die_lange_befurchtete-5c61ae9f60b222cd7aea6b66_Feb_11_2019_18_59_35.MP4",
+          "id": "10309721",
+          "text": "\u201eKlar, wer hier geschröpft werden soll\u201c - IWF will Bargeld besteuern: Hans-Werner Sinn warnt vor Ausbeutung der Sparer",
+          "credit": "FOCUS Online/Wochit",
+          "headline": "IWF will Bargeld besteuern: \u201eDann wäre es Zeit, den Euro aufzugeben\u201c",
+          "pre_roll_enabled": true,
+          "timestamp": 1549961520
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1458293758000-imgID5363886.jpg",
+            "subtext": null,
+            "width": 1580,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "FOL",
+            "url": "https://p5.focus.de/img/fotos/origs5363886/5932881774-w1580-h960-q72-p4/wissen-baeume-frage.jpg",
+            "height": 1013
+          },
+          "overhead": "Achtung! Das schaffen nur Rätsel-Experten",
+          "video_hd_url": "https://videos.focus.de/video/201603/20160316153412_raetesel1baeume_aufgabe_final_MP41280720.mp4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "5363537: Achtung! Das schaffen nur Rätsel-Experten: Das Baum-Problem: Sind Sie schlau genug, um dieses knifflige Rätsel zu knacken?",
+            "pageName": "/Wissen/Achtung! Das schaffen nur Rätsel-Experten/Das Baum-Problem: Sind Sie schlau genug, um dieses knifflige Rätsel zu knacken?"
+          },
+          "url": "https://www.focus.de/wissen/achtung-das-schaffen-nur-raetsel-experten-das-baum-problem-sind-sie-schlau-genug-um-dieses-knifflige-raetsel-zu-knacken_id_5363537.html",
+          "duration_s": 63,
+          "path": [
+            {
+              "name": "Wissen",
+              "element": "wissen"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Wissen",
+          "video_sd_url": "https://videos.focus.de/video/201603/20160316153412_raetesel1baeume_aufgabe_final_MP4768432.mp4",
+          "id": "5363537",
+          "text": "Achtung! Das schaffen nur Rätsel-Experten - Das Baum-Problem: Sind Sie schlau genug, um dieses knifflige Rätsel zu knacken?",
+          "credit": "FOL",
+          "headline": "Das Baum-Problem: Sind Sie schlau genug, um dieses knifflige Rätsel zu knacken?",
+          "pre_roll_enabled": true,
+          "timestamp": 1549808220
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549960458000-imgID10311187.jpg",
+            "subtext": null,
+            "width": 4711,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "colourbox",
+            "url": "https://p5.focus.de/img/fotos/origs10311187/6134478226-w4711-h960-q72-p4/colourbox21076859.jpg",
+            "height": 3533
+          },
+          "overhead": "Schlüsseltechnologie der Quantenkommunikation",
+          "video_hd_url": "https://videos3.focus.de/binary/2019/2/11/20/1497266805843-9777mu/Beamen_ist_m_glich____Clixoom_Science___Fiction-1549913956926.mp4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10309867: Beamen ist möglich: Österreichischen Forschern gelingt spektakulärer Erfolg",
+            "pageName": "/Wissen/Technik/Beamen ist möglich/Österreichischen Forschern gelingt spektakulärer Erfolg"
+          },
+          "url": "https://www.focus.de/wissen/technik/beamen-ist-moeglich-oesterreichischen-forschern-gelingt-spektakulaerer-erfolg_id_10309867.html",
+          "duration_s": 301,
+          "path": [
+            {
+              "name": "Wissen",
+              "element": "wissen"
+            },
+            {
+              "name": "Technik",
+              "element": "technik"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Technik",
+          "video_sd_url": "https://videos3.focus.de/binary/2019/2/11/20/1497266962686-neuyqj/Beamen_ist_m_glich____Clixoom_Science___Fiction-1549913958733.mp4",
+          "id": "10309867",
+          "text": "Beamen ist möglich - Österreichischen Forschern gelingt spektakulärer Erfolg",
+          "credit": "Clixoom",
+          "headline": "Beamen ist möglich: Österreichischen Forschern gelingt spektakulärer Erfolg",
+          "pre_roll_enabled": true,
+          "timestamp": 1549961580
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549900765000-imgID10245676.jpg",
+            "subtext": "US-Präsident Trump ",
+            "width": 800,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "dpa/Win Mcnamee/Pool Getty Images/AP",
+            "url": "https://p5.focus.de/img/fotos/origs10245676/2197445052-w800-h960-q72-p4/urn-newsml-dpa-com-20090101-190129-99-761329-large-4-3.jpg",
+            "height": 600
+          },
+          "overhead": "Viel \"executive time\"",
+          "video_hd_url": "https://videos2.focus.de/wochit/2019/02/11/Trump_Terminkalender_1-5c613ab760b222cd7aea528f_Feb_11_2019_9_56_08.MP4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10306287: Viel \"executive time\": Kaum gefüllter Terminkalender veröffentlicht \u2013 nun meldet sich Trump zu Wort",
+            "pageName": "/Politik/Ausland/Viel \"executive time\"/Kaum gefüllter Terminkalender veröffentlicht \u2013 nun meldet sich Trump zu Wort"
+          },
+          "url": "https://www.focus.de/politik/ausland/viel-executive-time-schlecht-gefuellter-terminkalender-veroeffentlicht-nun-meldet-sich-trump-zu-wort_id_10306287.html",
+          "duration_s": 74,
+          "path": [
+            {
+              "name": "Politik",
+              "element": "politik"
+            },
+            {
+              "name": "Ausland",
+              "element": "ausland"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Ausland",
+          "video_sd_url": "https://videos2.focus.de/wochit/2019/02/11/Trump_Terminkalender_1-5c613ab760b222cd7aea528f_Feb_11_2019_9_54_16.MP4",
+          "id": "10306287",
+          "text": "Viel \"executive time\" - Kaum gefüllter Terminkalender veröffentlicht \u2013 nun meldet sich Trump zu Wort",
+          "credit": "FOCUS Online/Wochit",
+          "headline": "Kaum gefüllter Terminkalender veröffentlicht \u2013 nun meldet sich Trump zu Wort",
+          "pre_roll_enabled": true,
+          "timestamp": 1549893600
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549650702000-imgID10300211.jpg",
+            "subtext": null,
+            "width": 1280,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Bit Projects",
+            "url": "https://p5.focus.de/img/fotos/origs10300211/7908432716-w1280-h960-q72-p4/teaserbild-pistole.jpg",
+            "height": 651
+          },
+          "overhead": "Alle Tests erfolgreich",
+          "video_hd_url": "https://videos3.focus.de/binary/2019/2/8/18/1497266805843-9777mu/bitprojects_20190206_Udav_Pistole-1549648261202.mp4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10300225: Alle Tests erfolgreich: Neue russische Armeepistole - sie durchschlägt sogar Schutzwesten",
+            "pageName": "/Politik/Ausland/Alle Tests erfolgreich/Neue russische Armeepistole - sie durchschlägt sogar Schutzwesten"
+          },
+          "url": "https://www.focus.de/politik/ausland/alle-tests-erfolgreich-neue-russische-armeepistole-sie-durchschlaegt-sogar-schutzwesten_id_10300225.html",
+          "duration_s": 56,
+          "path": [
+            {
+              "name": "Politik",
+              "element": "politik"
+            },
+            {
+              "name": "Ausland",
+              "element": "ausland"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Ausland",
+          "video_sd_url": "https://videos3.focus.de/binary/2019/2/8/18/1497266962686-neuyqj/bitprojects_20190206_Udav_Pistole-1549648261680.mp4",
+          "id": "10300225",
+          "text": "Alle Tests erfolgreich - Neue russische Armeepistole - sie durchschlägt sogar Schutzwesten",
+          "credit": "Bit Projects",
+          "headline": "\"Udav\": Neue russische Armeepistole durchschlägt Schutzwesten und leichte Panzerung",
+          "pre_roll_enabled": true,
+          "timestamp": 1549651278
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549458658000-imgID10286750.jpg",
+            "subtext": "Tusk Hölle",
+            "width": 960,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "FOCUS Online/Wochit",
+            "url": "https://p5.focus.de/img/fotos/origs10286750/0156111572-w960-h960-q72-p4/tusk-holle-5c5ac45360b27a4d93a12eb3-1-feb-06-2019-13-04-59-poster.jpg",
+            "height": 540
+          },
+          "overhead": "Harte Kritik an Brexit-Befürwortern",
+          "video_hd_url": "https://videos2.focus.de/wochit/2019/02/06/Tusk_Holle-5c5ac45360b27a4d93a12eb3_Feb_06_2019_13_05_33.MP4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10286755: Bei Pressekonferenz in Brüssel: EU-Ratspräsident Tusk: Brexit-Verfechter verdienen Platz in der Hölle",
+            "pageName": "/Politik/Ausland/Bei Pressekonferenz in Brüssel/EU-Ratspräsident Tusk: Brexit-Verfechter verdienen Platz in der Hölle"
+          },
+          "url": "https://www.focus.de/politik/ausland/bei-pressekonferenz-in-bruessel-eu-ratspraesident-tusk-brexit-verfechter-verdienen-platz-in-der-hoelle_id_10286755.html",
+          "duration_s": 82,
+          "path": [
+            {
+              "name": "Politik",
+              "element": "politik"
+            },
+            {
+              "name": "Ausland",
+              "element": "ausland"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Ausland",
+          "video_sd_url": "https://videos2.focus.de/wochit/2019/02/06/Tusk_Holle-5c5ac45360b27a4d93a12eb3_Feb_06_2019_13_05_11.MP4",
+          "id": "10286755",
+          "text": "Bei Pressekonferenz in Brüssel - EU-Ratspräsident Tusk: Brexit-Verfechter verdienen Platz in der Hölle",
+          "credit": "FOCUS Online/Wochit",
+          "headline": "Regierungschef reagiert auf Tusks \"Höllen\"-Kommentar - und vergisst offene Mikros",
+          "pre_roll_enabled": true,
+          "timestamp": 1549458632
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549490162000-imgID10285510.jpg",
+            "subtext": "Mitglieder des US-Militärs installieren Stacheldraht an der Grenze zu Mexiko.",
+            "width": 800,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "dpa/Eric Gay",
+            "url": "https://p5.focus.de/img/fotos/origs10285510/9897447777-w800-h960-q72-p4/urn-newsml-dpa-com-20090101-190206-99-872622-large-4-3.jpg",
+            "height": 600
+          },
+          "overhead": "Maßnahme gegen illegale Grenzübertritte",
+          "video_hd_url": "https://videos2.focus.de/wochit/2019/02/06/Trump_Beendet_Shutdown_Test-5c5aa5e760b2bbbe5ecc6fd9_Feb_06_2019_11_31_04.MP4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10286022: Illegale Einwanderung: Trump baut Stacheldraht-Barriere zu Mexiko - und vergisst dabei US-Ort",
+            "pageName": "/Politik/Ausland/Illegale Einwanderung/Trump baut Stacheldraht-Barriere zu Mexiko - und vergisst dabei US-Ort"
+          },
+          "url": "https://www.focus.de/politik/ausland/illegale-einwanderung-trump-baut-stacheldraht-barriere-zu-mexiko-und-vergisst-dabei-us-ort_id_10286022.html",
+          "duration_s": 88,
+          "path": [
+            {
+              "name": "Politik",
+              "element": "politik"
+            },
+            {
+              "name": "Ausland",
+              "element": "ausland"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Ausland",
+          "video_sd_url": "https://videos2.focus.de/wochit/2019/02/06/Trump_Beendet_Shutdown_Test-5c5aa5e760b2bbbe5ecc6fd9_Feb_06_2019_11_30_43.MP4",
+          "id": "10286022",
+          "text": "Illegale Einwanderung - Trump baut Stacheldraht-Barriere zu Mexiko - und vergisst dabei US-Ort",
+          "credit": "FOCUS Online/Wochit",
+          "headline": "Trump baut Stacheldraht-Barriere zu Mexiko - und vergisst dabei US-Ort",
+          "pre_roll_enabled": true,
+          "timestamp": 1549456500
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549446363000-imgID10285048.jpg",
+            "subtext": null,
+            "width": 1000,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "dpa",
+            "url": "https://p5.focus.de/img/fotos/origs10285048/4585396772-w1000-h960-q72-p4/trumpteaser.jpg",
+            "height": 450
+          },
+          "overhead": "US-Präsident bei Kongressrede",
+          "video_hd_url": "https://videos3.focus.de/binary/2019/2/6/10/1497266805843-9777mu/36755df2_47fd_416c_aa99_6cbe17b4be1c-1549445659463.mp4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10284812: Ganz in Weiß: Kongressabgeordnete feiern sich bei Trump-Rede",
+            "pageName": "/Politik/Ausland/Ganz in Weiß/Kongressabgeordnete feiern sich bei Trump-Rede"
+          },
+          "url": "https://www.focus.de/politik/ausland/ganz-in-weiss-kongressabgeordnete-feiern-sich-bei-trump-rede_id_10284812.html",
+          "duration_s": 48,
+          "path": [
+            {
+              "name": "Politik",
+              "element": "politik"
+            },
+            {
+              "name": "Ausland",
+              "element": "ausland"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Ausland",
+          "video_sd_url": "https://videos3.focus.de/binary/2019/2/6/10/1497266962686-neuyqj/36755df2_47fd_416c_aa99_6cbe17b4be1c-1549445659870.mp4",
+          "id": "10284812",
+          "text": "Ganz in Weiß - Kongressabgeordnete feiern sich bei Trump-Rede",
+          "credit": "KameraOne",
+          "headline": "Während Trump-Rede springen Demokraten plötzlich auf und jubeln",
+          "pre_roll_enabled": true,
+          "timestamp": 1549445827
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549814629000-imgID10304560.jpg",
+            "subtext": null,
+            "width": 1264,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Glomex",
+            "url": "https://p5.focus.de/img/fotos/origs10304560/1396216044-w1264-h960-q72-p4/bett-machen.jpg",
+            "height": 548
+          },
+          "overhead": "So geht es richtig",
+          "video_hd_url": "https://dvsd-stream.glomex.com/content/v-bbastkj7m4tl/eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SWQiOiJ2LWJiYXN0a2o3bTR0bCIsImlhdCI6MTU0OTgxMzQ2MiwiZXhwIjozMTI3NjkzNDYyfQ.MC4CFQCptfP6r0WLY_VZRzWYLrNzm2jmUAIVAI9zAgJPjaq_zAR0wpV0_g6TwbZ1/stream.mp4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10304570: So geht's richtig: Wenn Sie Ihr Bett nicht richtig machen, schaffen Sie ein Paradies für Milben",
+            "pageName": "/Wissen/So geht's richtig/Wenn Sie Ihr Bett nicht richtig machen, schaffen Sie ein Paradies für Milben"
+          },
+          "url": "https://www.focus.de/wissen/so-geht-s-richtig-wenn-sie-ihr-bett-nicht-richtig-machen-schaffen-sie-ein-paradies-fuer-milben_id_10304570.html",
+          "duration_s": 97,
+          "path": [
+            {
+              "name": "Wissen",
+              "element": "wissen"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Wissen",
+          "video_sd_url": "https://dvsd-stream.glomex.com/content/v-bbastkj7m4tl/eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SWQiOiJ2LWJiYXN0a2o3bTR0bCIsImlhdCI6MTU0OTgxMzQ2MiwiZXhwIjozMTI3NjkzNDYyfQ.MC4CFQCptfP6r0WLY_VZRzWYLrNzm2jmUAIVAI9zAgJPjaq_zAR0wpV0_g6TwbZ1/stream.mp4",
+          "id": "10304570",
+          "text": "So geht's richtig - Wenn Sie Ihr Bett nicht richtig machen, schaffen Sie ein Paradies für Milben",
+          "credit": "FOCUS Online/Glomex",
+          "headline": "Wenn Sie Ihr Bett nicht richtig machen, schaffen Sie ein Milben-Paradies",
+          "pre_roll_enabled": true,
+          "timestamp": 1549912860
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549964662000-imgID10311685.jpg",
+            "subtext": null,
+            "width": 1920,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Glomex",
+            "url": "https://p5.focus.de/img/fotos/origs10311685/3476825604-w1920-h960-q72-p4/profile-original.jpg",
+            "height": 1080
+          },
+          "overhead": "Sänger macht sich Sorgen",
+          "video_hd_url": "https://dvsd-stream.glomex.com/content/v-brxk60zcb7op/eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SWQiOiJ2LWJyeGs2MHpjYjdvcCIsImlhdCI6MTU0OTk2NDM2NSwiZXhwIjozMTI3ODQ0MzY1fQ.MCwCFAFnKN3F_wf-1zzHo2mIsQoCSny9AhRZodkR8WQIKXfdNGywtAvrbrzeCw/stream.mp4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10311694: \"Mir würde sie jetzt nicht mehr gefallen\": Pietro Lombardi macht sich große Sorgen um Ex Sarah",
+            "pageName": "/Kultur/Kino & TV/\"Mir würde sie jetzt nicht mehr gefallen\"/Pietro Lombardi macht sich große Sorgen um Ex Sarah"
+          },
+          "url": "https://www.focus.de/kultur/kino_tv/mir-wuerde-sie-jetzt-nicht-mehr-gefallen-pietro-lombardi-macht-sich-grosse-sorgen-um-ex-sarah_id_10311694.html",
+          "duration_s": 67,
+          "path": [
+            {
+              "name": "Kultur",
+              "element": "kultur"
+            },
+            {
+              "name": "Kino & TV",
+              "element": "kino_tv"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Kino & TV",
+          "video_sd_url": "https://dvsd-stream.glomex.com/content/v-brxk60zcb7op/eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SWQiOiJ2LWJyeGs2MHpjYjdvcCIsImlhdCI6MTU0OTk2NDM2NSwiZXhwIjozMTI3ODQ0MzY1fQ.MCwCFAFnKN3F_wf-1zzHo2mIsQoCSny9AhRZodkR8WQIKXfdNGywtAvrbrzeCw/stream.mp4",
+          "id": "10311694",
+          "text": "\"Mir würde sie jetzt nicht mehr gefallen\" - Pietro Lombardi macht sich große Sorgen um Ex Sarah",
+          "credit": "FOCUS Online/Glomex",
+          "headline": "Pietro Lombardi über seine Ex Sarah: \u201eMir würde sie jetzt nicht mehr gefallen\u201c",
+          "pre_roll_enabled": true,
+          "timestamp": 1549966260
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549903904000-imgID10309402.jpg",
+            "subtext": null,
+            "width": 5052,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Karl-Josef Hildenbrand/dpa",
+            "url": "https://p5.focus.de/img/fotos/origs10309402/699012476-w5052-h960-q72-p4/tauwetter-im-sueden-60278361.jpg",
+            "height": 3330
+          },
+          "overhead": "Wettervorhersage",
+          "video_hd_url": "https://videos3.focus.de/binary/2019/2/11/15/1497266805843-9777mu/wetter_11022019_DiMi-1549897195034.mp4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10309453: Wettervorhersage: Trocken und sonnig: Hoch Dorit bringt mildes Frühlingswetter",
+            "pageName": "/Regional/Wetter/Wettervorhersage/Trocken und sonnig: Hoch Dorit bringt mildes Frühlingswetter"
+          },
+          "url": "https://www.focus.de/regional/wetter/wettervorhersage-trocken-und-sonnig-hoch-dorit-bringt-mildes-fruehlingswetter_id_10309453.html",
+          "duration_s": 81,
+          "path": [
+            {
+              "name": "Regional",
+              "element": "regional"
+            },
+            {
+              "name": "Wetter",
+              "element": "wetter"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Wetter",
+          "video_sd_url": "https://videos3.focus.de/binary/2019/2/11/15/1497266962686-neuyqj/wetter_11022019_DiMi-1549897195737.mp4",
+          "id": "10309453",
+          "text": "Wettervorhersage - Trocken und sonnig: Hoch Dorit bringt mildes Frühlingswetter",
+          "credit": "Weather Channel",
+          "headline": "Jetzt kommt der nächste Wetterumschwung: Hoch Dorit legt sich über Deutschland",
+          "pre_roll_enabled": true,
+          "timestamp": 1549956000
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1526994056000-imgID8966332.jpg",
+            "subtext": null,
+            "width": 724,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Getty Images/iStockphoto/Rostislav_Sedlacek",
+            "url": "https://p5.focus.de/img/fotos/origs8966332/2695351836-w724-h960-q72-p4/gettyimages-543180730-1-.jpg",
+            "height": 483
+          },
+          "overhead": "Metabolismus-Fallen",
+          "video_hd_url": "https://videos2.focus.de/wochit/2018/05/22/5b04040760b2159b4450eac0-1280x720_May_22_2018_12_46_22.MP4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "8966210: Metabolismus-Fallen: Abnehmen klappt nicht? 4 Angewohnheiten bremsen Ihren Stoffwechsel",
+            "pageName": "/Gesundheit/Ernährung/Richtig abnehmen/Metabolismus-Fallen/Abnehmen klappt nicht? 4 Angewohnheiten bremsen Ihren Stoffwechsel"
+          },
+          "url": "https://www.focus.de/gesundheit/ernaehrung/abnehmen/metabolismus-fallen-abnehmen-klappt-nicht-4-angewohnheiten-bremsen-ihren-stoffwechsel_id_8966210.html",
+          "duration_s": 88,
+          "path": [
+            {
+              "name": "Gesundheit",
+              "element": "gesundheit"
+            },
+            {
+              "name": "Ernährung",
+              "element": "ernaehrung"
+            },
+            {
+              "name": "Richtig abnehmen",
+              "element": "abnehmen"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Richtig abnehmen",
+          "video_sd_url": "https://videos2.focus.de/wochit/2018/05/22/5b04040760b2159b4450eac0-854x480_May_22_2018_12_45_48.MP4",
+          "id": "8966210",
+          "text": "Metabolismus-Fallen - Abnehmen klappt nicht? 4 Angewohnheiten bremsen Ihren Stoffwechsel",
+          "credit": "FOCUS Online",
+          "headline": "Abnehmen klappt nicht? Vier Angewohnheiten bremsen Ihren Stoffwechsel",
+          "pre_roll_enabled": true,
+          "timestamp": 1549949520
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549900080000-imgID10309126.jpg",
+            "subtext": "App macht es möglich: So lesen Sie gelöschte WhatsApp-Nachrichten",
+            "width": 960,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "FOCUS Online/Wochit",
+            "url": "https://p5.focus.de/img/fotos/origs10309126/4966119239-w960-h960-q72-p4/app-macht-es-moglich-so-lesen-sie-gelosc-5c61808f60b222cd7aea5f3a-1-feb-11-2019-15-44-32-poster.jpg",
+            "height": 540
+          },
+          "overhead": "Geheimes Nachrichtenprotokoll",
+          "video_hd_url": "https://videos2.focus.de/wochit/2019/02/11/App_macht_es_moglich_So_lesen_Sie_gelosc-5c61808f60b222cd7aea5f3a_Feb_11_2019_15_45_08.MP4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10309127: Geheimes Nachrichtenprotokoll: App macht es möglich: So lesen Sie gelöschte WhatsApp-Nachrichten",
+            "pageName": "/Digital/Internet/Geheimes Nachrichtenprotokoll/App macht es möglich: So lesen Sie gelöschte WhatsApp-Nachrichten"
+          },
+          "url": "https://www.focus.de/digital/internet/whatsapp-so-lesen-sie-geloeschte-whatsapp-nachrichten_id_10309127.html",
+          "duration_s": 61,
+          "path": [
+            {
+              "name": "Digital",
+              "element": "digital"
+            },
+            {
+              "name": "Internet",
+              "element": "internet"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Internet",
+          "video_sd_url": "https://videos2.focus.de/wochit/2019/02/11/App_macht_es_moglich_So_lesen_Sie_gelosc-5c61808f60b222cd7aea5f3a_Feb_11_2019_15_44_44.MP4",
+          "id": "10309127",
+          "text": "Geheimes Nachrichtenprotokoll - App macht es möglich: So lesen Sie gelöschte WhatsApp-Nachrichten",
+          "credit": "FOCUS Online/Wochit",
+          "headline": "App macht es möglich: So lesen Sie gelöschte WhatsApp-Nachrichten",
+          "pre_roll_enabled": true,
+          "timestamp": 1549916040
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549967065000-imgID10312028.jpg",
+            "subtext": null,
+            "width": 1920,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Glomex",
+            "url": "https://p5.focus.de/img/fotos/origs10312028/3186826182-w1920-h960-q72-p4/maffay.jpg",
+            "height": 1080
+          },
+          "overhead": "Vater im Opa-Alter",
+          "video_hd_url": "https://dvsd-stream.glomex.com/content/v-brxjrqojmmfl/eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SWQiOiJ2LWJyeGpycW9qbW1mbCIsImlhdCI6MTU0OTk2NjU4NiwiZXhwIjozMTI3ODQ2NTg2fQ.MC0CFQCk6ib-olMgnswkiV_J-df2kJibzwIUTBFGv1sDSvA83RFjhXh0AgkcNrI/stream.mp4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10312029: Vater im Opa-Alter: Peter Maffay erntet Kritik mit Kinderwagen-Foto",
+            "pageName": "/Kultur/Musik/Vater im Opa-Alter/Peter Maffay erntet Kritik mit Kinderwagen-Foto"
+          },
+          "url": "https://www.focus.de/kultur/musik/vater-im-opa-alter-peter-maffay-erntet-kritik-mit-kinderwagen-foto_id_10312029.html",
+          "duration_s": 43,
+          "path": [
+            {
+              "name": "Kultur",
+              "element": "kultur"
+            },
+            {
+              "name": "Musik",
+              "element": "musik"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Musik",
+          "video_sd_url": "https://dvsd-stream.glomex.com/content/v-brxjrqojmmfl/eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SWQiOiJ2LWJyeGpycW9qbW1mbCIsImlhdCI6MTU0OTk2NjU4NiwiZXhwIjozMTI3ODQ2NTg2fQ.MC0CFQCk6ib-olMgnswkiV_J-df2kJibzwIUTBFGv1sDSvA83RFjhXh0AgkcNrI/stream.mp4",
+          "id": "10312029",
+          "text": "Vater im Opa-Alter - Peter Maffay erntet Kritik mit Kinderwagen-Foto",
+          "credit": "FOCUS Online/Glomex",
+          "headline": "Peter Maffay erntet Kritik mit Kinderwagen-Foto",
+          "pre_roll_enabled": true,
+          "timestamp": 1549967027
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1476451074000-imgID6071773.jpg",
+            "subtext": "Familie spielt mit Kindern am Strand",
+            "width": 960,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Huffington Post/Wochit",
+            "url": "https://p5.focus.de/img/fotos/origs6071773/4086114384-w960-h960-q72-p4/58009435e4b05949cdecf6e3-854x480-1-oct-14-2016-9-04-31-poster.jpg",
+            "height": 540
+          },
+          "overhead": "Sie dachten, sie posieren vor einer Boje",
+          "video_hd_url": "https://videos2.focus.de/wochit2/2016/10/14/58009435e4b05949cdecf6e3-1280x720_Oct_14_2016_9_04_39.MP4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "6071774: Sie dachten, sie posieren vor einer Boje: Familie macht mit Kindern Fotos am Strand \u2013 plötzlich schweben alle in Lebensgefahr",
+            "pageName": "/Panorama/Video/Sie dachten, sie posieren vor einer Boje/Familie macht mit Kindern Fotos am Strand \u2013 plötzlich schweben alle in Lebensgefahr"
+          },
+          "url": "https://www.focus.de/panorama/videos/sie-dachten-sie-posieren-vor-einer-boje-familie-macht-mit-kindern-fotos-am-strand-ploetzlich-schweben-alle-in-lebensgefahr_id_6071774.html",
+          "duration_s": 44,
+          "path": [
+            {
+              "name": "Panorama",
+              "element": "panorama"
+            },
+            {
+              "name": "Video",
+              "element": "videos"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Video",
+          "video_sd_url": "https://videos2.focus.de/wochit2/2016/10/14/58009435e4b05949cdecf6e3-854x480_Oct_14_2016_9_04_31.MP4",
+          "id": "6071774",
+          "text": "Sie dachten, sie posieren vor einer Boje - Familie macht mit Kindern Fotos am Strand \u2013 plötzlich schweben alle in Lebensgefahr",
+          "credit": "Huffington Post/Wochit",
+          "headline": "Familie macht mit Kindern Fotos am Strand \u2013 plötzlich schweben alle in Lebensgefahr",
+          "pre_roll_enabled": true,
+          "timestamp": 1513445820
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1452594540000-imgID5204584.jpg",
+            "subtext": "IKEA-WhatsApp",
+            "width": 960,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "FOCUS Online/Wochit",
+            "url": "https://p5.focus.de/img/fotos/origs5204584/1336113182-w960-h960-q72-p4/99224237-854x480-1-jan-12-2016-10-17-38-poster.jpg",
+            "height": 540
+          },
+          "overhead": "Für lahme Handys",
+          "video_hd_url": "https://videos.focus.de/video/201601/20160127120444_speedbremse_lschen_diese_apps_bremsen_ihr_smartphone_aus_-_chip_MP41280720.mp4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "5242964: Für lahme Handys: Löschen Sie zwei Apps und Ihr Smartphone wird sofort schneller",
+            "pageName": "/Digital/Video/Für lahme Handys/Löschen Sie zwei Apps und Ihr Smartphone wird sofort schneller"
+          },
+          "url": "https://www.focus.de/digital/videos/fuer-lahme-handys-loeschen-sie-diese-beiden-apps-und-ihr-smartphone-wird-sofort-viel-schneller_id_5242964.html",
+          "duration_s": 47,
+          "path": [
+            {
+              "name": "Digital",
+              "element": "digital"
+            },
+            {
+              "name": "Video",
+              "element": "videos"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Video",
+          "video_sd_url": "https://videos.focus.de/video/201601/20160127120444_speedbremse_lschen_diese_apps_bremsen_ihr_smartphone_aus_-_chip_MP4768432.mp4",
+          "id": "5242964",
+          "text": "Für lahme Handys - Löschen Sie zwei Apps und Ihr Smartphone wird sofort schneller",
+          "credit": "FOCUS Online",
+          "headline": "Löschen Sie zwei Apps und Ihr Smartphone wird sofort schneller",
+          "pre_roll_enabled": true,
+          "timestamp": 1544944860
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1473744250000-imgID5930169.jpg",
+            "subtext": null,
+            "width": 650,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Bright Side",
+            "url": "https://p5.focus.de/img/fotos/origs5930169/7611917228-w650-h960-q72-p4/725955-650-14459526171.jpg",
+            "height": 414
+          },
+          "overhead": "Phänomen \"Glaskörperflocken\"",
+          "video_hd_url": "https://videos2.focus.de/wochit/2016/09/12/57d689f0e4b070ceca300368-1280x720_Sep_12_2016_16_26_58.MP4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "5928450: Phänomen \"Glaskörperflocken\": Darum sehen Sie halbdurchsichtige Flecken vor den Augen",
+            "pageName": "/Gesundheit/Video/Phänomen \"Glaskörperflocken\"/Darum sehen Sie halbdurchsichtige Flecken vor den Augen"
+          },
+          "url": "https://www.focus.de/gesundheit/videos/phaenomen-glaskoerperflocken-darum-haben-sie-ploetzlich-halbdurchsichtige-flecken-oder-faeden-vor-augen_id_5928450.html",
+          "duration_s": 70,
+          "path": [
+            {
+              "name": "Gesundheit",
+              "element": "gesundheit"
+            },
+            {
+              "name": "Video",
+              "element": "videos"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Video",
+          "video_sd_url": "https://videos2.focus.de/wochit/2016/09/12/57d689f0e4b070ceca300368-854x480_Sep_12_2016_16_26_57.MP4",
+          "id": "5928450",
+          "text": "Phänomen \"Glaskörperflocken\" - Darum sehen Sie halbdurchsichtige Flecken vor den Augen",
+          "credit": "FOCUS Online/Wochit",
+          "headline": "Das sind die Gründe, wenn Sie plötzlich halbdurchsichtige Flecken vor Augen haben",
+          "pre_roll_enabled": true,
+          "timestamp": 1535188860
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549964745000-imgID10311695.jpg",
+            "subtext": null,
+            "width": 5487,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Sebastian Willnow/ZB/dpa",
+            "url": "https://p5.focus.de/img/fotos/origs10311695/9769822538-w5487-h960-q72-p4/landesparteitag-der-60201581.jpg",
+            "height": 3354
+          },
+          "overhead": "\u201eGilt für Rechts- wie für Linksradikale\u201c",
+          "video_hd_url": "https://videos2.focus.de/wochit/2019/02/12/Vereinbarkeit_von_Parteimitgliedschaft_u-5c62622a60b222cd7aea7d3b_Feb_12_2019_8_33_58.MP4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10311292: \u201eGilt für Rechts- wie für Linksradikale\u201c: Seehofer lässt prüfen: Dürfen AfD-Mitglieder Beamte sein?",
+            "pageName": "/Politik/Deutschland/\u201eGilt für Rechts- wie für Linksradikale\u201c/Seehofer lässt prüfen: Dürfen AfD-Mitglieder Beamte sein?"
+          },
+          "url": "https://www.focus.de/politik/deutschland/gilt-fuer-rechts-wie-fuer-linksradikale-seehofer-laesst-pruefen-duerfen-afd-mitglieder-beamte-sein_id_10311292.html",
+          "duration_s": 74,
+          "path": [
+            {
+              "name": "Politik",
+              "element": "politik"
+            },
+            {
+              "name": "Deutschland",
+              "element": "deutschland"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Deutschland",
+          "video_sd_url": "https://videos2.focus.de/wochit/2019/02/12/Vereinbarkeit_von_Parteimitgliedschaft_u-5c62622a60b222cd7aea7d3b_Feb_12_2019_8_33_40.MP4",
+          "id": "10311292",
+          "text": "\u201eGilt für Rechts- wie für Linksradikale\u201c - Seehofer lässt prüfen: Dürfen AfD-Mitglieder Beamte sein?",
+          "credit": "FOCUS Online/Wochit",
+          "headline": "Seehofer lässt Konsequenzen einer AfD-Mitgliedschaft für Beamte prüfen",
+          "pre_roll_enabled": true,
+          "timestamp": 1549964520
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1549892353000-imgID10308145.jpg",
+            "subtext": null,
+            "width": 631,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Viralhog",
+            "url": "https://p5.focus.de/img/fotos/origs10308145/9179488549-w631-h960-q72-p4/bildschirmfoto-2019-02-11-um-14.jpg",
+            "height": 357
+          },
+          "overhead": "Spektakuläre Kuschel-Attacke",
+          "video_hd_url": "https://videos2.focus.de/wochit/2019/02/11/Delfin-5c61600d60b293fba1457d9a_Feb_11_2019_14_43_49.MP4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10308730: Kuschel-Attacke: Delfin springt Frau auf Bootssteg in die Arme - dann wird es wild",
+            "pageName": "/Panorama/Aus aller Welt/Kuschel-Attacke/Delfin springt Frau auf Bootssteg in die Arme - dann wird es wild"
+          },
+          "url": "https://www.focus.de/panorama/welt/spektakulaere-kuschel-attacke-delfin-springt-frau-auf-bootssteg-in-die-arme-dann-wird-es-wild_id_10308730.html",
+          "duration_s": 58,
+          "path": [
+            {
+              "name": "Panorama",
+              "element": "panorama"
+            },
+            {
+              "name": "Aus aller Welt",
+              "element": "welt"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Aus aller Welt",
+          "video_sd_url": "https://videos2.focus.de/wochit/2019/02/11/Delfin-5c61600d60b293fba1457d9a_Feb_11_2019_14_43_35.MP4",
+          "id": "10308730",
+          "text": "Kuschel-Attacke - Delfin springt Frau auf Bootssteg in die Arme - dann wird es wild",
+          "credit": "FOCUS Online/Viralhog",
+          "headline": "Delfin springt Frau auf Bootssteg in die Arme - dann wird es wild",
+          "pre_roll_enabled": true,
+          "timestamp": 1549950420
+        }
+      ],
+      "url": null
+    },
+    "ressort_teasers": null,
+    "breaking_news": null,
+    "article": {
+      "overhead": "Zweimonatige Gnadenfrist",
+      "prefix": "Kurz vor der nächsten Reise von Premierministerin Theresa Mays nach Brüssel gibt es im britischen Kabinett Diskussionen über den Termin für den geplanten EU-Austritt Großbritanniens. Am Donnerstag will May EU-Kommissionschef Jean-Claude Juncker abermals ihre Ideen vorstellen.",
+      "media_object": {
+        "image": {
+          "fsk_allowed": true,
+          "filename": "1548886035000-imgID10250197.jpg",
+          "subtext": "Die britische Premierministerin Theresa May während der Debatte über den umstrittenen Brexit-Deal im Unterhaus.",
+          "width": 800,
+          "host": "p5.focus.de/img/mob",
+          "type": "image",
+          "credit": "dpa/Jessica Taylor/UK Parliament/AP",
+          "url": "https://p5.focus.de/img/fotos/origs10250197/9077443418-w800-h960-q72-p4/urn-newsml-dpa-com-20090101-190129-99-773977-large-4-3.jpg",
+          "height": 600
+        },
+        "overhead": "Zweimonatige Gnadenfrist",
+        "video_hd_url": "https://videos2.focus.de/wochit/2019/02/06/May_Gnadenfrist-5c5a780e60b2bbbe5ecc6cb0_Feb_06_2019_7_24_06.MP4",
+        "label": null,
+        "type": "video_teaser",
+        "tracking": {
+          "articleTitleId": "10284294: Zweimonatige Gnadenfrist: Britisches Kabinett diskutiert insgeheim Brexit-Verzögerung",
+          "pageName": "/Politik/Ausland/Zweimonatige Gnadenfrist/Britisches Kabinett diskutiert insgeheim Brexit-Verzögerung"
+        },
+        "url": "https://www.focus.de/politik/ausland/zweimonatige-gandenfrist-britisches-kabinett-diskutiert-insgeheim-brexit-verzoegerung_id_10284294.html",
+        "duration_s": 91,
+        "path": [
+          {
+            "name": "Politik",
+            "element": "politik"
+          },
+          {
+            "name": "Ausland",
+            "element": "ausland"
+          }
+        ],
+        "fsk_allowed": true,
+        "ressort": "Ausland",
+        "video_sd_url": "https://videos2.focus.de/wochit/2019/02/06/May_Gnadenfrist-5c5a780e60b2bbbe5ecc6cb0_Feb_06_2019_7_23_48.MP4",
+        "id": "10284294",
+        "text": "Zweimonatige Gnadenfrist - Britisches Kabinett diskutiert insgeheim Brexit-Verzögerung",
+        "credit": "FOCUS Online/Wochit",
+        "headline": "Britisches Kabinett diskutiert insgeheim bereits über eine Brexit-Verzögerung",
+        "pre_roll_enabled": true,
+        "timestamp": 1549443780
+      },
+      "headline": "Britisches Kabinett diskutiert insgeheim Brexit-Verzögerung",
+      "items": [
+        {
+          "text": "Das berichtete der gewöhnlich gut informierte konservative «Telegraph» am späten Dienstagabend in seiner Online-Ausgabe, ohne genauere Quellen zu nennen. Falls Mays ausgehandelter Vertrag die Zustimmung des Parlaments erhält, fordern einige Minister demnach eine zweimonatige Gnadenfrist nach dem offiziellen Austrittsdatum am 29. März, um notwendige Gesetze auf den Weg zu bringen. Bis zum 24. Mai solle Großbritannien weiterhin ein EU-Mitglied bleiben wie bisher.",
+          "type": "paragraph"
+        },
+        {
+          "text": "Mays Minister befürworten Gandenfrist",
+          "type": "subheadline"
+        },
+        {
+          "text": "Premierministerin May hatte allerdings wiederholt betont, Großbritannien werde die EU wie geplant am 29. März verlassen. Diskussionen über eine Verzögerung des Austrittsdatums seien kontraproduktiv. Zu den Befürwortern einer Gnadenfrist gehören laut der Zeitung Außenminister Jeremy Hunt, Schatzkanzler Philip Hammond sowie Handelsminister Liam Fox. Alle drei hatten sich bereits zuvor öffentlich für eine Verzögerung ausgesprochen.",
+          "type": "paragraph"
+        },
+        {
+          "text": "Auf der Suche nach einer Lösung im Brexit-Streit reist May am Donnerstag abermals nach Brüssel, um EU-Kommissionschef Jean-Claude Juncker ihre Ideen vorzustellen. Die Premierministerin hofft nach wie vor auf rechtlich verbindliche Änderungen an der im Brexit-Abkommen vorgesehenen Garantie für eine offene Grenze zwischen dem britischen Nordirland und dem EU-Mitglied Irland. Der sogenannte Backstop gilt als Haupthindernis für eine Ratifizierung des Abkommens.",
+          "type": "paragraph"
+        },
+        {
+          "text": "Großbritannien unter Zeitdruck",
+          "type": "subheadline"
+        },
+        {
+          "text": "May hatte mit der EU ein umfassendes Austrittsabkommen ausgehandelt, das aber Mitte Januar im britischen Parlament keine Mehrheit fand. Unter großem Zeitdruck will sie nun in Brüssel Änderungen durchsetzen, um doch noch die Ratifizierung des Vertrags zuwege zu bringen und einen chaotischen Bruch zu verhindern.",
+          "type": "paragraph"
+        },
+        {
+          "text": "Sollten die Minister entgegen Mays Linie eine Verzögerung des Austrittsdatums durchsetzen, würde das Datum für den Brexit genau mit der Europawahl zusammenfallen. Zwischen dem 23. und dem 26. Mai wählen die Menschen in den Mitgliedstaaten ein neues EU-Parlament.",
+          "type": "paragraph"
+        },
+        {
+          "text": "Auch im Video: Kalender enthüllt, wie viel Trump arbeitet - Weißes Haus reagiert ungehalten",
+          "type": "subheadline"
+        },
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1514542628000-imgID8148963.jpg",
+            "subtext": "US-Präsident Donald Trump",
+            "width": 3286,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "dpa",
+            "url": "https://p5.focus.de/img/fotos/origs8148963/2010574657-w3286-h960-q72-p4/trump.jpg",
+            "height": 1643
+          },
+          "overhead": "Viel Luft für spontane Aktivitäten",
+          "video_hd_url": "https://videos3.focus.de/binary/2019/2/4/19/1497266805843-9777mu/trump_terminkalender_5c58780d60b2081c5b760085_Feb_04_2019_18_07_31-1549303741679.mp4",
+          "label": null,
+          "type": "video_teaser",
+          "tracking": {
+            "articleTitleId": "10276540: Viel Luft für spontane Aktivitäten: Kalender enthüllt, wie viel Trump arbeitet - Weißes Haus reagiert ungehalten",
+            "pageName": "/Politik/Ausland/Viel Luft für spontane Aktivitäten/Kalender enthüllt, wie viel Trump arbeitet - Weißes Haus reagiert ungehalten"
+          },
+          "url": "https://www.focus.de/politik/ausland/viel-luft-fuer-spontane-aktivitaeten-kalender-enthuellt-wie-viel-trump-arbeitet-weisses-haus-reagiert-ungehalten_id_10276540.html",
+          "duration_s": 77,
+          "path": [
+            {
+              "name": "Politik",
+              "element": "politik"
+            },
+            {
+              "name": "Ausland",
+              "element": "ausland"
+            }
+          ],
+          "fsk_allowed": true,
+          "ressort": "Ausland",
+          "video_sd_url": "https://videos3.focus.de/binary/2019/2/4/19/1497266962686-neuyqj/trump_terminkalender_5c58780d60b2081c5b760085_Feb_04_2019_18_07_31-1549303742294.mp4",
+          "id": "10276540",
+          "text": "Viel Luft für spontane Aktivitäten - Kalender enthüllt, wie viel Trump arbeitet - Weißes Haus reagiert ungehalten",
+          "credit": "FOCUS Online/Wochit",
+          "headline": "Kalender enthüllt, wie viel Trump arbeitet - Weißes Haus reagiert erbost",
+          "pre_roll_enabled": true,
+          "timestamp": 1549303783
+        },
+        {
+          "text": "dk",
+          "type": "author_text"
+        }
+      ]
+    },
+    "partner_label": null
+  },
+  "article_teaser": {
+    "image": {
+      "fsk_allowed": true,
+      "filename": "1540276758000-imgID9791061.jpg",
+      "subtext": null,
+      "width": 1280,
+      "host": "p5.focus.de/img/mob",
+      "type": "image",
+      "credit": "Glomex",
+      "url": "https://p5.focus.de/img/kino_tv/origs9791061/9578436604-w1280-h960-q72-p4/klaas-gates.jpg",
+      "height": 720
+    },
+    "overhead": "\"Bücher sind ja nicht so teuer\"",
+    "video_hd_url": "https://dvsd-stream.glomex.com/get/eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SWQiOiJ2LWJwOXY4ZTV1c2Q0eCIsImRvbWFpbiI6ImZvY3VzLmRlIiwiaWF0IjoxNTQwMjc2NjA3LCJleHAiOjMxMTgxNTY2MDd9.MC0CFQCXpKxMPIw7jkXYX7rtZNW4L3LuTAIUfq75aXNUm8ueNs_zNNu0VPyIGTo/v-bp9v8e5usd4x/stream.mp4",
+    "label": null,
+    "type": "video_teaser",
+    "tracking": {
+      "articleTitleId": "9791072: \"Late Night Berlin\": Bill Gates taucht plötzlich in Klaas' TV-Talk auf",
+      "pageName": "/Kultur/Kino & TV/\"Late Night Berlin\"/Bill Gates taucht plötzlich in Klaas' TV-Talk auf"
+    },
+    "url": "https://www.focus.de/kultur/kino_tv/bei-late-night-berlin-bill-gates-taucht-ploetzlich-in-klaas-tv-talk-auf-der-fragt-ihn-wofuer-er-sein-geld-rausschmeisst_id_9791072.html",
+    "duration_s": 374,
+    "path": [
+      {
+        "name": "Kultur",
+        "element": "kultur"
+      },
+      {
+        "name": "Kino & TV",
+        "element": "kino_tv"
+      }
+    ],
+    "fsk_allowed": true,
+    "ressort": "Kino & TV",
+    "video_sd_url": "https://dvsd-stream.glomex.com/get/eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SWQiOiJ2LWJwOXY4ZTV1c2Q0eCIsImRvbWFpbiI6ImZvY3VzLmRlIiwiaWF0IjoxNTQwMjc2NjA3LCJleHAiOjMxMTgxNTY2MDd9.MC0CFQCXpKxMPIw7jkXYX7rtZNW4L3LuTAIUfq75aXNUm8ueNs_zNNu0VPyIGTo/v-bp9v8e5usd4x/stream.mp4",
+    "id": "9791072",
+    "text": "\"Late Night Berlin\" - Bill Gates taucht plötzlich in Klaas' TV-Talk auf",
+    "credit": "FOCUS Online/Glomex",
+    "headline": "Bill Gates taucht in Klaas' TV-Talk auf \u2013 der fragt ihn, wofür er sein Geld rausschmeißt",
+    "pre_roll_enabled": true,
+    "timestamp": 1540299120
+  },
+  "timestamp": 1549443780,
+  "authors": []
+}

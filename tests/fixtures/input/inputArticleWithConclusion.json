@@ -1,0 +1,753 @@
+{
+   "ad_settings": {
+      "publisher_id": "V0000",
+      "dataprovider_id": "D0000",
+      "ad_category": "perspektiven",
+      "techpartner_id": "T0000",
+      "commercial_label": null,
+      "interstitial": false,
+      "global": true,
+      "contentpartner_id": "P0000",
+      "cms_ad_keyword": "mutmacher",
+      "mobile_content_ads": [
+         true,
+         true,
+         true
+      ],
+      "ad_unit_levels": "perspektiven/mutmacher",
+      "adsc_city": null,
+      "adsc_regio": null
+   },
+   "meta_settings": {
+      "date_activated": null,
+      "date_published": "1556001345",
+      "date_lastmodified": "1556002278",
+      "date_created": "1554136107",
+      "esc_src": "STUDIO",
+      "date_republished": "1556001345",
+      "b_is_pn": false,
+      "date_expire": null,
+      "import_source": null,
+      "esc_src_id": "23c65946-b40c-4ab1-8407-f786f5bdb563"
+   },
+   "keywords": {
+      "apple": [
+         "Wüllenweber",
+         "Perspektiven",
+         "Mutmacher"
+      ]
+   },
+   "ressort_list": [
+      "finanzen",
+      "kultur",
+      "abnahme/exhomepage",
+      "perspektiven/mutmacher"
+   ],
+   "paging": {
+      "current": 0,
+      "pages": [
+         "https://www.focus.de/perspektiven/mutmacher/journalist-walter-wuellenweber-pessimismus-der-deutschen-ist-dumm-die-welt-ist-viel-besser-als-ihr-ruf_id_10533382.html"
+      ],
+      "count": 1
+   },
+   "type": "article",
+   "tracking": {
+      "pageArticleGroup": null,
+      "pageTopicType": "standard",
+      "pageGuestTitle": null,
+      "pageUniqueArticleTitle": "A: Walter Wüllenweber: Die Welt ist besser als ihr Ruf: Autor kämpft gegen den Pessimismus der Deutschen - 10533382",
+      "articleTitleId": "10533382: Walter Wüllenweber: Die Welt ist besser als ihr Ruf: Autor kämpft gegen den Pessimismus der Deutschen",
+      "pageAuthorRelated": "Katharina Müller",
+      "pageIdPublisher": null,
+      "pageLevel1": "perspektiven",
+      "pageTypeTitle": "standard_A: Walter Wüllenweber: Die Welt ist besser als ihr Ruf: Autor kämpft gegen den Pessimismus der Deutschen - 10533382",
+      "pageContentType": "editorial",
+      "pageSpecial": "mutmacher",
+      "pageAuthor": "Katharina Müller",
+      "pageGuestAuthor": null,
+      "title": "Die Welt ist besser als ihr Ruf: Autor kämpft gegen den Pessimismus der Deutschen",
+      "pageName": "perspektiven/mutmacher/journalist-walter-wu..._id_10533382",
+      "pageAuthorShort": null,
+      "ivwSzmContent": "22",
+      "pageLayoutVariantDetail": "full",
+      "pageSource": null,
+      "pageGuestRessort": null,
+      "pageArticleTitle": "A: Walter Wüllenweber: Die Welt ist besser als ihr Ruf: Autor kämpft gegen den Pessimismus der Deutschen - 10533382",
+      "vgWortCode": "https://ssl-focus.met.vgwort.de/na/aeeb736dedf141be94fde02435329191"
+   },
+   "url": "https://www.focus.de/perspektiven/mutmacher/journalist-walter-wuellenweber-pessimismus-der-deutschen-ist-dumm-die-welt-ist-viel-besser-als-ihr-ruf_id_10533382.html",
+   "content": {
+      "special": {
+         "header_image": {
+            "fsk_allowed": true,
+            "filename": "1564568510000-imgID10180189.jpg",
+            "subtext": null,
+            "width": 6000,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "FOCUS Online",
+            "url": "https://p5.focus.de/img/fotos/origs10180189/8013465883-w6000-h960-q72-p4/header-app-996x143-.jpg",
+            "height": 4000
+         },
+         "partner_text": null,
+         "partner_url": null,
+         "partner_image": null,
+         "type": "default",
+         "title": "Special | Mutmacher",
+         "url": "https://www.focus.de/perspektiven/mutmacher/"
+      },
+      "comments": {
+         "count": 10,
+         "title": "Leserkommentare",
+         "items": [
+            {
+               "author_name": "Rolf Mehlkopf",
+               "text": "der Bankie von Aktien, der geistliche von Gott, der Beamte von Akten usw und jeder Rat wird immer von deren Sichtweise erfolgen müssen. Dieser Journalist träumte nun mal leider von den Katasthrophen die er Berufsbedingt immer sehen und beschreiben mußte. Das jemand sich davon befreien kann um aus seiner engen Sichtweise heraustreten zu können ist schon ein riesiger Erfolg für jeden einzelnen selbst. Herzlichen Glückwunsch dazu Herr Wüllenweber und Frohe Ostern nachträglich!",
+               "type": "comment",
+               "headline": "Der Zahnarzt träumt von Zähnen",
+               "timestamp": 1556091774
+            }
+         ],
+         "url": "https://m.focus.de/perspektiven/mutmacher/journalist-walter-wuellenweber-pessimismus-der-deutschen-ist-dumm-die-welt-ist-viel-besser-als-ihr-ruf_id_10533382.html?inappcomments=true"
+      },
+      "ressort_teasers": {
+         "title": "Perspektiven",
+         "items": [
+            {
+               "image": {
+                  "fsk_allowed": true,
+                  "filename": "1555511347000-imgID10606019.jpg",
+                  "subtext": "Carina Frings entwickelte den Deckel, der das Einwegbecherproblem lösen soll.",
+                  "width": 672,
+                  "host": "p5.focus.de/img/mob",
+                  "type": "image",
+                  "credit": "Felix Hackland",
+                  "url": "https://p5.focus.de/img/fotos/origs10606019/6268412948-w672-h960-q72-p4/carina-frings.jpg",
+                  "height": 377
+               },
+               "overhead": "Um die Umwelt zu schonen",
+               "label": null,
+               "type": "article_teaser",
+               "tracking": {
+                  "articleTitleId": "10605958: Um die Umwelt zu schonen: Ein Deckel für jeden Pott: Kölnerin will das Einwegdeckel-Problem lösen",
+                  "pageName": "/Perspektiven/Mutmacher/Um die Umwelt zu schonen/Ein Deckel für jeden Pott: Kölnerin will das Einwegdeckel-Problem lösen"
+               },
+               "url": "https://www.focus.de/perspektiven/mutmacher/um-die-umwelt-zu-schonen-ein-deckel-fuer-jeden-pott-koelnerin-will-das-einwegdeckel-problem-loesen_id_10605958.html",
+               "path": [
+                  {
+                     "name": "Perspektiven",
+                     "element": "perspektiven"
+                  },
+                  {
+                     "name": "Mutmacher",
+                     "element": "mutmacher"
+                  }
+               ],
+               "ressort": "Perspektiven",
+               "id": "10605958",
+               "text": "Deutschland liebt Kaffee. Deutschland liebt auch Coffee-to-go-Becher. Stündlich landen laut der Deutschen Umwelthilfe etwa 320.000 Einwegbecher im Müll - ein massives Problem für das Ökosystem. Zwei Kölner Gründer wollen der Umweltverschmutzung mit einem einzigartigen Stöpsel, dem sogenannten \"udo\", ein Ende setzen.",
+               "credit": null,
+               "headline": "Ein Deckel für jeden Pott: Kölnerin will das Einweg-Problem lösen",
+               "timestamp": 1555927980
+            },
+            {
+               "image": {
+                  "fsk_allowed": true,
+                  "filename": "1555779477000-imgID10616119.jpg",
+                  "subtext": "Maren Schinz designt Taschen für Diabetiker",
+                  "width": 758,
+                  "host": "p5.focus.de/img/mob",
+                  "type": "image",
+                  "credit": "Sandra Lohrmann",
+                  "url": "https://p5.focus.de/img/fotos/origs10616119/1698588969-w758-h960-q72-p4/helden.jpg",
+                  "height": 506
+               },
+               "overhead": "Zubehör als Modeaccessoire",
+               "label": null,
+               "type": "article_teaser",
+               "tracking": {
+                  "articleTitleId": "10616105: Zubehör als Modeaccessoire: Diabetikerin wurde als Junkie abgestempelt, bis eine Tasche alles veränderte",
+                  "pageName": "/Perspektiven/Mutmacher/Zubehör als Modeaccessoire/Diabetikerin wurde als Junkie abgestempelt, bis eine Tasche alles veränderte"
+               },
+               "url": "https://www.focus.de/perspektiven/mutmacher/diabetes-zubehoer-als-modeaccessoire-diabetikerin-wurde-als-junkie-abgestempelt-bis-eine-tasche-alles-veraenderte_id_10616105.html",
+               "path": [
+                  {
+                     "name": "Perspektiven",
+                     "element": "perspektiven"
+                  },
+                  {
+                     "name": "Mutmacher",
+                     "element": "mutmacher"
+                  }
+               ],
+               "ressort": "Perspektiven",
+               "id": "10616105",
+               "text": "Maren Schinz hat Diabetes. Die Nylon-Tasche mit dem dicken Logo der Pharmakonzerne bestimmt ihren Alltag. In ihr steckt alles, was sie zum Überleben braucht. Ein ungewolltes Outing als Kranke inklusive. Doch die Neurobiologin will selbst bestimmen, wann sie von ihrer Krankheit spricht. Sie gründet ein Start-up und entwirft Taschen, die Modeaccessoires statt Diabetes-Zubehör sind.",
+               "credit": null,
+               "headline": "Diabetikerin wurde als Junkie abgestempelt, bis eine Tasche alles veränderte",
+               "timestamp": 1555833840
+            },
+            {
+               "image": {
+                  "fsk_allowed": true,
+                  "filename": "1555591026000-imgID10510514.jpg",
+                  "subtext": "Lisa Tihanyi näht sich ihre Kleidung selbst",
+                  "width": 877,
+                  "host": "p5.focus.de/img/mob",
+                  "type": "image",
+                  "credit": "privat",
+                  "url": "https://p5.focus.de/img/fotos/origs10510514/786872497-w877-h960-q72-p4/mode.jpg",
+                  "height": 492
+               },
+               "overhead": "Gegen blinden Konsum",
+               "label": null,
+               "type": "article_teaser",
+               "tracking": {
+                  "articleTitleId": "10510432: Gegen blinden Konsum: Spontan-Shopping ist fatal für die Umwelt - Lisa unternimmt etwas dagegen",
+                  "pageName": "/Perspektiven/Mutmacher/Gegen blinden Konsum/Spontan-Shopping ist fatal für die Umwelt - Lisa unternimmt etwas dagegen"
+               },
+               "url": "https://www.focus.de/perspektiven/mutmacher/gegen-blinden-konsum-was-uns-impulskaeufe-wirklich-kosten-und-eine-bloggerin-dagegen-unternimmt_id_10510432.html",
+               "path": [
+                  {
+                     "name": "Perspektiven",
+                     "element": "perspektiven"
+                  },
+                  {
+                     "name": "Mutmacher",
+                     "element": "mutmacher"
+                  }
+               ],
+               "ressort": "Perspektiven",
+               "id": "10510432",
+               "text": "Ein neues Hemd, ein neues Kleid, eine neue Hose: Beim Bummeln fällt es schwer, den Laden mit leeren Händen zu verlassen. Dabei wissen wir genau: Unsere Kleiderschränke daheim sind in Wahrheit übervoll. Von der Schnelllebigkeit eines Kleidungsstücks, den katastrophalen Folgen blinden Konsumverhaltens und einer Bloggerin, die genau das kritisch hinterfragt. Von Janina Dorra",
+               "credit": null,
+               "headline": "Spontan-Shopping ist fatal für die Umwelt - Lisa unternimmt etwas dagegen",
+               "timestamp": 1555737420
+            },
+            {
+               "image": {
+                  "fsk_allowed": true,
+                  "filename": "1555603398000-imgID10609288.jpg",
+                  "subtext": "Seit zehn Jahren behandelt Peter Schwick Kinder ohne Krankenversicherung",
+                  "width": 754,
+                  "host": "p5.focus.de/img/mob",
+                  "type": "image",
+                  "credit": "Mike Yousaf",
+                  "url": "https://p5.focus.de/img/fotos/origs10609288/687410657-w754-h960-q72-p4/schwick-6.jpg",
+                  "height": 483
+               },
+               "overhead": "Krank ohne Krankenversicherung",
+               "label": null,
+               "type": "article_teaser",
+               "tracking": {
+                  "articleTitleId": "10608758: Krank ohne Krankenversicherung: Arzt behandelt Patienten kostenlos: „Weil Gesundheit ein Menschenrecht ist“",
+                  "pageName": "/Perspektiven/Mutmacher/Krank ohne Krankenversicherung/Arzt behandelt Patienten kostenlos: „Weil Gesundheit ein Menschenrecht ist“"
+               },
+               "url": "https://www.focus.de/perspektiven/mutmacher/krank-ohne-krankenversicherung-arzt-behandelt-patienten-kostenlos_id_10608758.html",
+               "path": [
+                  {
+                     "name": "Perspektiven",
+                     "element": "perspektiven"
+                  },
+                  {
+                     "name": "Mutmacher",
+                     "element": "mutmacher"
+                  }
+               ],
+               "ressort": "Perspektiven",
+               "id": "10608758",
+               "text": "Mehr als 80.000 Menschen in Deutschland sind nicht krankenversichert. Einfach zum Arzt gehen, geht für sie nicht. Kinderarzt Peter Schwick behandelt sie trotzdem – ehrenamtlich und kostenlos. Doch eine Dauerlösung will er nicht sein. Die fordert er von der Politik.",
+               "credit": null,
+               "headline": "Arzt behandelt Kinder in Nobel-Viertel - an anderen Tagen hilft er den Ärmsten",
+               "timestamp": 1555683360
+            },
+            {
+               "image": {
+                  "fsk_allowed": true,
+                  "filename": "1555496982000-imgID10604056.jpg",
+                  "subtext": "Herbert O. Ganswindt (li.), Wolfgang Retzlaff (m.) und Marina Musslick (r.) sind die „Superarmen\" von Neukölln. ",
+                  "width": 937,
+                  "host": "p5.focus.de/img/mob",
+                  "type": "image",
+                  "credit": "Bild: Bernd Friedel",
+                  "url": "https://p5.focus.de/img/berlin/origs10604056/7294374079-w937-h960-q72-p4/compressed-d158ec98-2448-4b44-9af3-f1d1e1253213klima-demo.jpg",
+                  "height": 467
+               },
+               "overhead": "Neukölln",
+               "label": null,
+               "type": "article_teaser",
+               "tracking": {
+                  "articleTitleId": "10604140: Verein in Neukölln gegründet: \"Wollen etwas zurückgeben\": Hartz-IV-Empfänger helfen den \"Superarmen\" in ihrem Kiez",
+                  "pageName": "/Perspektiven/Mutmacher/Verein in Neukölln gegründet/\"Wollen etwas zurückgeben\": Hartz-IV-Empfänger helfen den \"Superarmen\" in ihrem Kiez"
+               },
+               "url": "https://www.focus.de/perspektiven/mutmacher/die-superarmen-von-neukoelln-wir-stehen-zu-unserem-schicksal-berliner-hartz-iv-empfaenger-gruenden-eigenen-verein_id_10604140.html",
+               "path": [
+                  {
+                     "name": "Perspektiven",
+                     "element": "perspektiven"
+                  },
+                  {
+                     "name": "Mutmacher",
+                     "element": "mutmacher"
+                  }
+               ],
+               "ressort": "Perspektiven",
+               "id": "10604140",
+               "text": "Sie haben selbst wenig Geld und leben von Hartz IV. Doch statt zu jammern und mit dem eigenen Schicksal zu hadern, haben sie einen Verein gegründet. „Die Superarmen e.V.“ aus Neukölln haben es sich zur Lebensaufgabe gemacht, den Menschen zu helfen, denen es noch schlechter geht als ihnen.",
+               "credit": null,
+               "headline": "\"Wollen etwas zurückgeben\": Berliner Hartz-IV-Empfänger gründen Verein für Superarme ",
+               "timestamp": 1555565100
+            }
+         ],
+         "url": "https://www.focus.de/perspektiven/"
+      },
+      "related_teasers": {
+         "title": "Mehr zum Thema",
+         "items": [
+            {
+               "image": {
+                  "fsk_allowed": true,
+                  "filename": "1562579607000-imgID10695375.jpg",
+                  "subtext": "Der türkische Präsident Recep Tayyip Erdogan organisiert Notenbank neu",
+                  "width": 2280,
+                  "host": "p5.focus.de/img/mob",
+                  "type": "image",
+                  "credit": "AP",
+                  "url": "https://p5.focus.de/img/fotos/origs10695375/9690203024-w2280-h960-q72-p4/329d54009c69b0f8.jpg",
+                  "height": 1601
+               },
+               "overhead": "Ende der Rezession",
+               "label": null,
+               "type": "article_teaser",
+               "tracking": {
+                  "articleTitleId": "11097230: Ende der Rezession: Erdogans Zins-Kalkül geht auf - und er macht vollmundige Ankündigung",
+                  "pageName": "/Finanzen/Börse/Devisen/Ende der Rezession/Erdogans Zins-Kalkül geht auf - und er macht vollmundige Ankündigung"
+               },
+               "url": "https://www.focus.de/finanzen/boerse/devisen/tuerkei-erdogans-zins-kalkuel-geht-auf_id_11097230.html",
+               "path": [
+                  {
+                     "name": "Finanzen",
+                     "element": "finanzen"
+                  },
+                  {
+                     "name": "Börse",
+                     "element": "boerse"
+                  },
+                  {
+                     "name": "Devisen",
+                     "element": "devisen"
+                  }
+               ],
+               "ressort": "Finanzen",
+               "id": "11097230",
+               "text": "Die Türkei kommt in der Währungskrise wieder auf etwas stabilere Beine. Die Zinssenkungen der Notenbank konnten der Wirtschaft aus der Rezession helfen. Und auch die Inflation fällt weiter.",
+               "credit": "dpa/Reuters",
+               "headline": "Wirtschaft wächst! Erdogans Zins-Kalkül geht auf und er macht vollmundige Ankündigung",
+               "timestamp": 1567764660
+            },
+            {
+               "image": {
+                  "fsk_allowed": true,
+                  "filename": "1567759650000-imgID11114147.jpg",
+                  "subtext": "Die 100-Euro-Goldmünze „UNESCO-Welterbe - Dom zu Speyer“",
+                  "width": 877,
+                  "host": "p5.focus.de/img/mob",
+                  "type": "image",
+                  "credit": "BVA/Wuthenow",
+                  "url": "https://p5.focus.de/img/fotos/origs11114147/3038725665-w877-h960-q72-p4/100-euro-dom-speyer.jpg",
+                  "height": 493
+               },
+               "overhead": "Käufer müssen ein Risiko kennen",
+               "label": null,
+               "type": "article_teaser",
+               "tracking": {
+                  "articleTitleId": "11114150: Käufer müssen ein Risiko kennen: Rendite-Trick des Jahres: Mit Goldmünze vom Staat können Sie über 500 Euro abgreifen",
+                  "pageName": "/Finanzen/Börse/Gold/Käufer müssen ein Risiko kennen/Rendite-Trick des Jahres: Mit Goldmünze vom Staat können Sie über 500 Euro abgreifen"
+               },
+               "url": "https://www.focus.de/finanzen/boerse/gold/schnaeppchen-fuer-anleger-der-rendite-trick-des-jahres-mit-der-goldmuenze-vom-staat-kassieren-sie-hunderte-euro-ab_id_11114150.html",
+               "path": [
+                  {
+                     "name": "Finanzen",
+                     "element": "finanzen"
+                  },
+                  {
+                     "name": "Börse",
+                     "element": "boerse"
+                  },
+                  {
+                     "name": "Gold",
+                     "element": "gold"
+                  }
+               ],
+               "ressort": "Finanzen",
+               "id": "11114150",
+               "text": "Die Bundesregierung beendet mit der 100-Euro-Goldmünze \"Dom zu Speyer\" die Serie zu Stätten des Unesco-Weltkulturerbes in Deutschland. Das besondere an der Münze: Ihr Preis liegt unter dem Materialpreis. FOCUS Online erklärt, wie das möglich ist.",
+               "credit": null,
+               "headline": "Rendite-Trick des Jahres: Mit dieser Münze vom Staat können Sie über 500 Euro abgreifen",
+               "timestamp": 1567764600
+            },
+            {
+               "image": {
+                  "fsk_allowed": true,
+                  "filename": "1567764420000-imgID11114736.jpg",
+                  "subtext": "Tischtennis-Herren im EM-Halbfinale: Dimitrij Ovtcharov",
+                  "width": 1000,
+                  "host": "p5.focus.de/img/mob",
+                  "type": "image",
+                  "credit": "AFP/SID/PATRIK STOLLARZ",
+                  "url": "https://p5.focus.de/img/mehrsport/origs11114736/3185397725-w1000-h960-q72-p4/3e7a723e90cfe5ec48c19f0cc24c689b08e9a5c1.jpg",
+                  "height": 749
+               },
+               "overhead": "Tischtennis - EM",
+               "label": null,
+               "type": "article_teaser",
+               "tracking": {
+                  "articleTitleId": "11114738: Tischtennis - EM: Tischtennis-Herren erreichen EM-Halbfinale",
+                  "pageName": "/Sport/Mehr Sport/Tischtennis - EM/Tischtennis-Herren erreichen EM-Halbfinale"
+               },
+               "url": "https://www.focus.de/sport/mehrsport/tischtennis-em-tischtennis-herren-erreichen-em-halbfinale_id_11114738.html",
+               "path": [
+                  {
+                     "name": "Sport",
+                     "element": "sport"
+                  },
+                  {
+                     "name": "Mehr Sport",
+                     "element": "mehrsport"
+                  }
+               ],
+               "ressort": "Sport",
+               "id": "11114738",
+               "text": "Die deutschen Tischtennis-Herren haben bei der Team-EM in Nantes das Halbfinale erreicht und damit bereits eine Medaille sicher.",
+               "credit": "sid",
+               "headline": "Tischtennis-Herren erreichen EM-Halbfinale",
+               "timestamp": 1567764420
+            },
+            {
+               "image": {
+                  "fsk_allowed": true,
+                  "filename": "1567753855000-imgID11113490.jpg",
+                  "subtext": "Robert Mugabe im Juni 2008 (Archivbild)",
+                  "width": 2670,
+                  "host": "p5.focus.de/img/mob",
+                  "type": "image",
+                  "credit": "ALEXANDER JOE / AFP",
+                  "url": "https://p5.focus.de/img/fotos/origs11113490/2205453081-w2670-h960-q72-p4/000-1k21sy.jpg",
+                  "height": 1750
+               },
+               "overhead": "Im Alter von 95 Jahren",
+               "label": null,
+               "type": "article_teaser",
+               "tracking": {
+                  "articleTitleId": "11113098: Ex-Diktator in Simbabwe: Robert Mugabe stirbt mit 95 Jahren",
+                  "pageName": "/Politik/Ausland/Ex-Diktator in Simbabwe/Robert Mugabe stirbt mit 95 Jahren"
+               },
+               "url": "https://www.focus.de/politik/ausland/ex-diktator-in-simbabwe-robert-mugabe-stirbt-mit-95-jahren_id_11113098.html",
+               "path": [
+                  {
+                     "name": "Politik",
+                     "element": "politik"
+                  },
+                  {
+                     "name": "Ausland",
+                     "element": "ausland"
+                  }
+               ],
+               "ressort": "Politik",
+               "id": "11113098",
+               "text": "Er galt als Vater des modernen Simbabwe, als mutiger Kämpfer gegen den Kolonialismus – aber auch als brutaler Diktator und korrupter Machthaber. Simbabwes langjähriger Präsident Robert Mugabe ist tot. Seinem Land hinterlässt er ein kompliziertes Vermächtnis.",
+               "credit": "mit dpa",
+               "headline": "Er befreite sein Land, dann zerstörte er es: Simbabwes Ex-Diktator Mugabe ist tot",
+               "timestamp": 1567764420
+            },
+            {
+               "image": {
+                  "fsk_allowed": true,
+                  "filename": "1567738291000-imgID11112589.jpg",
+                  "subtext": "Christian Gräff (CDU).",
+                  "width": 800,
+                  "host": "p5.focus.de/img/mob",
+                  "type": "image",
+                  "credit": "dpa/Monika Skolimowskabild",
+                  "url": "https://p5.focus.de/img/fotos/origs11112589/9877447625-w800-h960-q72-p4/urn-newsml-dpa-com-20090101-190905-99-758629-large-4-3.jpg",
+                  "height": 600
+               },
+               "overhead": "Christian Gräff",
+               "label": null,
+               "type": "article_teaser",
+               "tracking": {
+                  "articleTitleId": "11112930: Christian Gräff: „Ihr könnt hier nicht herziehen“: CDU-Mann fordert Zuzugsstopp für Berlin",
+                  "pageName": "/Immobilien/Wohnen/Christian Gräff/„Ihr könnt hier nicht herziehen“: CDU-Mann fordert Zuzugsstopp für Berlin"
+               },
+               "url": "https://www.focus.de/immobilien/wohnen/wegen-mangelnder-infrastruktur-cdu-politiker-fordert-einen-zuzugsstopp-fuer-berlin_id_11112930.html",
+               "path": [
+                  {
+                     "name": "Immobilien",
+                     "element": "immobilien"
+                  },
+                  {
+                     "name": "Wohnen",
+                     "element": "wohnen"
+                  }
+               ],
+               "ressort": "Immobilien",
+               "id": "11112930",
+               "text": "Zu wenig Wohnungen, volle U- und S-Bahnen, nicht genügend Kita-Plätze: Der wohnungspolitische Sprecher der CDU-Fraktion im Berliner Abgeordnetenhaus, Christian Gräff, hat einen Zuzugsstopp für Berlin ins Gespräch gebracht. Selbst seine eigenen Parteikollegen reagieren entsetzt.",
+               "credit": "dpa",
+               "headline": "„Ihr könnt hier nicht herziehen“: CDU-Politiker fordert ein Zuzugsstopp für Berlin",
+               "timestamp": 1567764420
+            }
+         ],
+         "url": null
+      },
+      "breaking_news": null,
+      "article": {
+         "overhead": "Walter Wüllenweber",
+         "prefix": "Walter Wüllenweber ist Autor. Seine These: Der Großteil der Deutschen sieht die Welt zu negativ. Mit Fakten und frohen Botschaften kämpft er gegen Schwarzmalerei. Er zeigt, warum früher nicht alles besser, sondern das meiste schlimmer war.",
+         "media_object": {
+            "fsk_allowed": true,
+            "filename": "1555065080000-imgID10584566.jpg",
+            "subtext": "Walter Wüllenweber ist Autor beim Stern. ",
+            "width": 953,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "Katharina Müller",
+            "url": "https://p5.focus.de/img/fotos/origs10584566/2552156814-w953-h960-q72-p4/wuellenweber-bild-2-.jpg",
+            "height": 719
+         },
+         "headline": "Die Welt ist besser als ihr Ruf: Autor kämpft gegen den Pessimismus der Deutschen",
+         "items": [
+            {
+               "text": "Von FOCUS-Online-Autorin Katharina Müller",
+               "type": "author_text"
+            },
+            {
+               "text": "Walter Wüllenweber hat in seinem Leben viel über gesellschaftliche Missstände geschrieben. Massenarbeitslosigkeit, Armut, Krieg – all das gehört bis heute tagtäglich zu seinem Geschäft.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Als Journalist berichtete er aus dem ehemaligen Jugoslawien über den Krieg und verlor dort seinen besten Freund und Journalistenkollegen. Er wurde erschossen. Auch sein eigenes Leben stand nicht selten auf dem Spiel: Als Berichterstatter im Golfkrieg wurde ein Bombenanschlag auf ihn verübt. Er kam noch mal davon. In Deutschland guckte er hinter die Fassade des Rechtsextremismus. Der Preis: Der Staatsschutz fuhr Streife vor seinem Haus. Als die Ermittler seine Sicherheit nicht mehr gewährleisten konnten, zog er um. Bis heute stehen weder Nummer noch Adresse in einem Telefonbuch. „Weil ich als Journalist immer auf die allerschlimmsten Probleme konzentriert gewesen bin, habe ich die Welt sehr lange zu negativ gesehen“, sagt er.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Dass gerade jemand wie Wüllenweber die These aufstellt, die Menschen seien heute gesünder, reicher, sicherer, gebildeter und freier als jemals zuvor, stößt auf Gegenwind. Auch in seinem engsten Bekanntenkreis. „Das kann ja gar nicht sein! Spinnst du jetzt komplett? Was hast du denn geraucht?“, beschreibt Wüllenweber die Reaktionen von Freunden auf sein Buch, das den Titel „Frohe Botschaft “ trägt und im vergangenen Jahr bei der Verlagsgruppe „Random House“ erschienen ist.",
+               "type": "paragraph"
+            },
+            {
+               "fsk_allowed": true,
+               "filename": "1547212956000-imgID10173229.jpg",
+               "subtext": null,
+               "width": 1992,
+               "host": "p5.focus.de/img/mob",
+               "type": "image",
+               "credit": "FOCUS Online",
+               "url": "https://p5.focus.de/img/fotos/origs10173229/9035891055-w1992-h960-q72-p4/dld-header-app-996x143.jpg",
+               "height": 286
+            },
+            {
+               "text": "In der Serie \"Unsere wahren Helden\" stellen wir in 100 Porträts Menschen vor, die Deutschland weiterbringen. Wir besuchen sie in ihren Vereinen, ihrem Ort oder ihrem Stadtviertel – und zeigen, wie sie unsere Gesellschaft zum Besseren verändern.<br /><br /><a href=\"https://www.focus.de/perspektiven/mutmacher/\" target=\"_self\">Alle bereits veröffentlichten Geschichten finden Sie hier.</a>",
+               "type": "conclusion",
+               "headline": "Unsere wahren Helden"
+            },
+            {
+               "text": "Und ja, bei den ganzen Horror-Nachrichten, die und jeden Tag aufs Neue erreichen, fällt das, was da hinten auf dem Buchrücken steht, tatsächlich schwer zu glauben: „Heute ist alles besser“. Doch Walter Wüllenweber wäre kein Journalist, wenn seine Erkenntnisse nicht auf Daten und Fakten beruhen würden. Wenn das, was er schreibt, nicht Hand und Fuß hätte. Was also bewegt einen Journalisten der alten Schule dazu, so etwas zu schreiben?",
+               "type": "paragraph"
+            },
+            {
+               "text": "Der Absolvent der Henri-Nannen-Journalistenschule und Autor beim „Stern“ ist ein Kind der 60er Jahre. „Als ich im Kindergarten war, verhungerten von 1000 Menschen, jedes Jahr etwa 50. Heute noch einer, alle zwei Jahre. Das ist ein Rückgang um 99 Prozent“, wirft er als Beispiel in den Raum. „Ähnlich positiv ist die Entwicklung bei der Armut. In den 50er Jahren waren noch zwei Drittel der Menschen absolut arm. Heute sind es sechs bis acht Prozent.“",
+               "type": "paragraph"
+            },
+            {
+               "text": "Egal ob Bildung, Reichtum, Gesundheit oder Umwelt – in seinem Buch finden sich etliche weitere Erfolgsbeispiele. „Wir sind in einer Aufwärtsspirale“, lautet seine Bilanz. Natürlich gebe es immer noch zahlreiche Ungerechtigkeiten, wie die ungleiche Verteilung zwischen Arm und Reich. Wer aber positive Trends ignoriere und an einer dramatischen Weltsicht festhalte, öffne den Populisten und der Unvernunft Tür und Tor.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Da er viele gesellschaftlichen Entwicklungen über Jahre hinweg beobachtet habe, sagt er heute mit Überzeugung: „Früher war nicht alles besser, aber das meiste schlimmer.“",
+               "type": "paragraph"
+            },
+            {
+               "text": "<b>Gefühlte Wirklichkeit und Fakten klaffen auseinander</b>",
+               "type": "subheadline"
+            },
+            {
+               "text": "Eine These, die Millionen Deutsche so nicht unterschreiben würden. Denn die Frage, ob sich die Welt insgesamt zum Besseren entwickelt hat, bewertet gerade die Bevölkerung hierzulande besonders negativ: Nur vier Prozent der Deutschen stimmen zu. In Schweden sind es immerhin zehn Prozent, in China sogar 41 Prozent.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Dabei ist Wüllenweber nicht der Erste, der mit Fakten gegen Unwahrheit und schlechte Stimmung kämpft, um auf die großen Fortschritte unserer Zeit hinzuweisen. Schon der 2017 verstorbene Gesundheitsexperte Hans Rosling hat etwa in seinem Buch „Factfulness“ gezeigt, dass die Menschheit heute viel wohlhabender und gesünder als früher ist, das von einem Großteil aber kaum wahrgenommen wird. In zahlreichen Statistiken ging er gegen die weit verbreitete Schwarzmalerei vor. Das war die Mission des schwedischen Statistikers und Epidemiologen, die nun von Wüllenweber fortgesetzt wird. Getroffen hat er den schwedischen Professor nie, aber er ist für ihn ein großes Vorbild.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Doch wie kann es sein, dass trotz der Fülle an Beweisen die Fakten und die gefühlte Wirklichkeit so weit auseinanderklaffen? Wüllenweber suchte Antworten und fand sie: „Die gefühlte Wahrheit täuscht uns. Der Mensch ist ein Fluchttier, das darauf spezialisiert ist, seine Umgebung permanent nach Gefahren abzusuchen. Alles was negativ ist, nehmen wir besser wahr.“ Der Mensch verarbeitet demnach selbst die kleinsten Anzeichen von Gefahr deutlich besser und schneller als alle anderen Informationen.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Gleichzeitig würden Journalisten einen großen Teil zu dieser negativen Weltsicht beitragen. „Unser Gehirn sagt, gib mir Informationen über etwas Negatives und wir liefern sie. Denn dafür interessiert sich der Leser am allermeisten“, so Wüllenweber. Mit schlechten Nachrichten – sogenannten „Bad News“ – lässt sich zudem mehr Geld verdienen. Sehr gern verlassen sich Journalisten und Redakteure daher auf eine alte Weisheit: Only bad news are good news. Wüllenweber: „Henri Nannen, Erfinder der Zeitschrift Stern, hat immer gesagt: Auto fährt auf der Landstraße, kommt an einen Bahnübergang, Schranke geht runter, Auto hält an, Zug fährt vorbei, Schranke geht hoch, Auto fährt weiter. Ist keine Geschichte. Wenn nichts passiert, berichten Journalisten darüber nicht.“",
+               "type": "paragraph"
+            },
+            {
+               "image": {
+                  "fsk_allowed": true,
+                  "filename": "1551080547000-imgID10369125.jpg",
+                  "subtext": null,
+                  "width": 618,
+                  "host": "p5.focus.de/img/mob",
+                  "type": "image",
+                  "credit": "FMV",
+                  "url": "https://p5.focus.de/img/fotos/origs10369125/5235493205-w618-h960-q72-p4/titel.jpg",
+                  "height": 780
+               },
+               "button_color_hex": "#94AE0B",
+               "target_url": "https://pdf.focus.de/sinns-antworten-fuer-2019.html",
+               "text": "Unser <b>PDF-Ratgeber</b> zeigt die Analyse von Star-Ökonom Professor Dr. Hans-Werner Sinn. Plus: Wie das Experiment Negativzinsen funktioniert und warum die Bargeldabschaffung drohen könnte.",
+               "button_text": "Zum PDF-Ratgeber",
+               "type": "pdf_box",
+               "headline": "Sinns Antworten für 2019",
+               "target": "extern"
+            },
+            {
+               "text": "<b>Wie die Sozialen Medien als Wilder Westen Hysterie schüren</b>",
+               "type": "subheadline"
+            },
+            {
+               "text": "Wüllenweber wirbt darum, dass wir uns die positiven Veränderungen in unserer Gesellschaft „mehr bewusst machen“. Doch gerade der radikale Strukturwandel in der Öffentlichkeit und die Digitalisierung erschweren positives Denken und verändern unsere Wahrnehmung nachhaltig.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Der Grund: Menschen nehmen ihre Umwelt heute viel stärker als früher durch die Medien wahr. Seit den 60er Jahren hat sich die Nutzung verdreifacht. Die Menschen verbringen in Deutschland zehn Stunden am Tag mit Medien. Und diese zehn Stunden sind laut Wüllenweber mit dem gefüllt, was sie uns überwiegend anbieten: negativen Nachrichten. „Wir wachen morgens auf und schon beim Zähneputzen werden wir mit Horror-Nachrichten geflutet. Wir haben das Gefühl: Der Weltuntergang steht kurz bevor.“",
+               "type": "paragraph"
+            },
+            {
+               "text": "Ein zusätzliches Problem: Qualitätsmedien setzen Missstände in ein Verhältnis und überprüfen, was vertrauenswürdige Quellen sind und was nicht. In den Sozialen Medien gibt es solch einen Mechanismus nicht. „Wahrheit ist in den Sozialen Medien keine wichtige Größe. Deswegen sind sie ideal, um Hysterie zu erzeugen. Das sind die perfekten Angstmaschinen“, stellt Wüllenweber fest.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Trotz allem bleibt Wüllenweber optimistisch. Er glaubt an die Zivilisierung der neuen Medien. „Wie immer, wenn es etwas Neues gibt, ist am Anfang ‚Wild West‘. Wenn man sich die ersten Zeitungen anguckt, dann war der Wahrheitsgehalt der Geschichten nicht viel größer, als der von einem durchschnittlichen Facebook-Post.“",
+               "type": "paragraph"
+            },
+            {
+               "text": "Doch was tun, bis es so weit ist? Den Medienkonsum reduzieren? Das hält Wüllenweber für den falschen Weg, denn „die Medien haben eine wichtige Funktion: Sie versetzen die Menschen in die Lage, aus ihren Fehlern zu lernen. Wir müssen nun etwas Zusätzliches machen. Als Journalisten müssen wir die positiven Veränderungen ins Bewusstsein der Menschen bringen, die positiven Sensationen“, schlussfolgert er.",
+               "type": "paragraph"
+            },
+            {
+               "text": "<b>Wir müssen aus unseren Erfolgen lernen</b>",
+               "type": "subheadline"
+            },
+            {
+               "text": "Nur so könne die Gesellschaft nicht nur aus ihren Fehlern, sondern auch von ihren Erfolgen lernen. „In Unternehmen ist das als ‚Best-Practice-Beispiele‘ gang und gäbe. Aber wir als Gesellschaft haben keinen Mechanismus, wie wir ‚best practice‘ lernen“, kritisiert er.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Gerade unsere Erfolge seien jedoch essenziell, um zu überlegen, wie wir in Zukunft mit den großen Problemen unserer Zeit umgehen. Dafür müssten wir uns fragen, wie die Gesellschaft in Vergangenheit Problemen gegenübergetreten sei, bei denen sich heute im Rückblick eine signifikante Verbesserung beobachten lässt. „In den 80er Jahren war ich fest davon überzeugt: Das Ozonloch werden wir Menschen nicht in den Griff bekommen.“, resümiert Wüllenweber. Dann habe die Weltgemeinschaft erstmals in der ökologischen Frage zusammengearbeitet und das erste Öko-Abkommen beschlossen.",
+               "type": "paragraph"
+            },
+            {
+               "text": "1990 wurden bestimmte, die Ozonschicht abbauende, Halogenkohlenwasserstoffe verboten. Die Weltgemeinschaft demonstrierte dabei bemerkenswerte Einigkeit. Dieses Verbot habe dazu geführt, dass das Ozonloch zuerst nicht mehr größer geworden ist und seit ein paar Jahren schließt sich das Ozonloch wieder. „Das ist eigentlich eine Sensation, war in der Presse aber nur eine kleine Meldung. Wichtig ist, wie wir dieses Problem in den Griff bekommen haben: mit internationaler Zusammenarbeit“, sagt Wüllenweber.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Mit seiner Argumentation will der Journalist auch allen Populisten den Wind aus den Segeln nehmen, deren Beweisführung genau in eine entgegengesetzte Richtung läuft. Eine 180-Grad-Wende in der globalen Zusammenarbeit sowie das Kündigen von bilateralen Abkommen und Nationalismus würden die Welt nicht besser machen – im Gegenteil: „Das bezeichne ich als die Mutter aller Fake-News.“",
+               "type": "paragraph"
+            },
+            {
+               "subtext": null,
+               "button_border_color_hex": "#ad6a00",
+               "button_icon_url": null,
+               "target_url": "https://eigenheim.focus.de/rechner2/focus/kassensturz/",
+               "target_type": "extern",
+               "id": "10533382",
+               "text": "Anzeige",
+               "button_text": "Wie viel Haus kann ich mir leisten?",
+               "button_content_color_hex": "#ff9900",
+               "type": "ad_button",
+               "button_text_color_hex": "#ffffff",
+               "target": "extern"
+            },
+            {
+               "text": "<b>Jeder Einzelne kann am positiven Wandel teilhaben</b>",
+               "type": "subheadline"
+            },
+            {
+               "text": "Was Wüllenweber mit seinen Fakten und Beispielen zeigt: Die Welt und auch Deutschland „kann Veränderung“. Wichtig sei insbesondere, dass wir als Gesellschaft positive Entwicklungen auch als solche wahrnehmen und die Ereignisse in eine Perspektive setzen.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Denn egal ob in den vergangenen Jahrzehnten für Feminismus, Umwelt, Frieden, Gleichstellung oder gegen Atomkraft, Diesel oder Rassismus gekämpft worden ist: Diese Anstöße waren nicht nur wichtig, sondern haben unsere Gesellschaft auch nach vorne gebracht und uns in eine bessere Zukunft geführt. Und jeder Einzelne kann sich auch weiterhin an diesem positiven Wandel beteiligen.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Vielleicht ist auch genau das, was als Fazit der FOCUS-Online-Heldenserie stehen sollte - nicht ohne ein wenig dem Kitsch zu verfallen: Denn die großen Veränderer in unserer Gesellschaft sind keine vorzeigbaren Stars, sondern öffentlichkeitsscheue Forscher, die Bürokraten des öffentlichen Dienstes, Ärzte, Aktivisten und all jene, die unsere Gesellschaft mit ihrem Engagement, ihren Ideen und Herzblut jeden Tag ein Stück besser machen.",
+               "type": "paragraph"
+            },
+            {
+               "text": "Im Video: Als würden Passagiere von Bord katapultiert: Heli-Retter zeigen spektakuläres Video",
+               "type": "subheadline"
+            },
+            {
+               "image": {
+                  "fsk_allowed": true,
+                  "filename": "1553459880000-imgID10498403.jpg",
+                  "subtext": "Evakuierung der Viking Sky",
+                  "width": 960,
+                  "host": "p5.focus.de/img/mob",
+                  "type": "image",
+                  "credit": "FOCUS Online/Wochit",
+                  "url": "https://p5.focus.de/img/fotos/origs10498403/8856115461-w960-h960-q72-p4/evakuierung-der-viking-sky-5c97db10dd173300c12634e5-1-mar-24-2019-20-35-42-poster.jpg",
+                  "height": 540
+               },
+               "overhead": "Einsatz auf \"Viking Sky\" gefilmt",
+               "video_hd_url": "https://videos2.focus.de/wochit/2019/03/24/Evakuierung_der_Viking_Sky-5c97db10dd173300c12634e5_Mar_24_2019_20_37_17.MP4",
+               "label": null,
+               "type": "video_teaser",
+               "tracking": {
+                  "articleTitleId": "10498404: Einsatz auf \"Viking Sky\": Als würden Passagiere von Bord katapultiert: Heli-Retter zeigen spektakuläres Video",
+                  "pageName": "/Panorama/Aus aller Welt/Einsatz auf \"Viking Sky\"/Als würden Passagiere von Bord katapultiert: Heli-Retter zeigen spektakuläres Video"
+               },
+               "url": "https://www.focus.de/panorama/welt/mit-helmkamera-gefilmt-als-wuerden-passagiere-von-bord-katapultiert-heli-retter-zeigen-spektakulaeres-video_id_10498404.html",
+               "duration_s": 132,
+               "path": [
+                  {
+                     "name": "Panorama",
+                     "element": "panorama"
+                  },
+                  {
+                     "name": "Aus aller Welt",
+                     "element": "welt"
+                  }
+               ],
+               "fsk_allowed": true,
+               "ressort": "Aus aller Welt",
+               "video_sd_url": "https://videos2.focus.de/wochit/2019/03/24/Evakuierung_der_Viking_Sky-5c97db10dd173300c12634e5_Mar_24_2019_20_36_40.MP4",
+               "id": "10498404",
+               "text": "Einsatz auf \"Viking Sky\" - Als würden Passagiere von Bord katapultiert: Heli-Retter zeigen spektakuläres Video",
+               "credit": "FOCUS Online/Wochit",
+               "headline": "Als würden Passagiere von Bord katapultiert: Heli-Retter zeigen spektakuläres Video",
+               "pre_roll_enabled": true,
+               "timestamp": 1553509200
+            },
+            {
+               "text": "<hr />",
+               "type": "paragraph"
+            }
+         ]
+      },
+      "partner_label": null
+   },
+   "path": [
+      {
+         "name": "Perspektiven",
+         "element": "perspektiven"
+      },
+      {
+         "name": "Mutmacher",
+         "element": "mutmacher"
+      }
+   ],
+   "ugc_user_id": null,
+   "id": "10533382",
+   "config": {},
+   "timestamp": 1556001345,
+   "authors": [
+      "Katharina Müller"
+   ]
+}

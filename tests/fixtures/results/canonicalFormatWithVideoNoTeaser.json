@@ -1,0 +1,127 @@
+{
+  "id": "10722886",
+  "sourceSystem": "escenic",
+  "publisherId": "239cd996-9649-48fb-883a-63025d17fd5a",
+  "lastPublishDate": "2019-07-10T12:13:00.000Z",
+  "creationDate": "2019-05-17T08:47:00.000Z",
+  "publishDate": "2019-07-10T11:53:30.000Z",
+  "republishDate": "2019-07-10T12:13:00.000Z",
+  "modificationDate": "2019-07-10T12:32:28.000Z",
+  "overhead": "Statement nach \"GNTM\"-Ausstieg",
+  "type": "video",
+  "title": "Sie stieg überraschend nach Finaleinzug aus - hier spricht Vanessa direkt zu Heidi",
+  "headline": "Sie stieg überraschend nach Finaleinzug aus - hier spricht Vanessa direkt zu Heidi",
+  "active": true,
+  "publisher": "FOCUS Online",
+  "meta": {
+    "partner_label": null,
+    "path": [
+      {
+        "name": "Kultur",
+        "element": "kultur"
+      },
+      {
+        "name": "Kino & TV",
+        "element": "kino_tv"
+      }
+    ],
+    "escenic_source":"STUDIO"
+  },
+  "canonicalUrl": "https://www.focus.de/kultur/kino_tv/statement-nach-gntm-ausstieg-sie-stieg-ueberraschend-nach-finaleinzug-aus-hier-spricht-vanessa-direkt-zu-heidi_id_10722886.html",
+  "tags": [],
+  "description": "Vanessa steigt freiwillig aus und wird somit nicht beim Finale von \"Germany's next Topmodel\" antreten. Ihr komplettes Statement dazu können Sie im Video ansehen.",
+  "categories": [
+    "Kultur",
+    "Kino & TV"
+  ],
+  "teaser": {
+    "content": [],
+    "description": "",
+    "headline": "",
+    "title": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "tag": "p",
+      "content": "Bei \"Germany's Next Topmodel\" ging es am Donnerstagabend um den Einzug ins Finale. Schon vor der Ausstrahlung spekulierten Fans: Eine der Kandidatinnen – Vanessa –  habe hinter den Kulissen längst hingeschmissen. Am Ende der Sendung folgte dann tatsächlich der Topmodel-Hammer."
+    },
+    {
+      "type": "text",
+      "tag": "h2",
+      "content": "\"GNTM\": Vanessa gibt keinen konkreten Grund bekannt"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "content": "Die fünf Kandidatinnen, die offiziell noch vom Sieg in Heidi Klums Castingshow träumten, heißen Simone, Alicija, Cäcilia, Sayana und Vanessa. Doch bereits seit Tagen häuften sich im Netz die Gerüchte, Vanessa habe tatsächlich längst das Handtuch geschmissen."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "content": "Mit einem Post auf ihrer Instagram-Seite befeuerte sie bereits vor der Sendung die Gerüchteküche. Mit einem Foto, auf dem sie zusammen mit einer Bloggerin auf einer Couch zu sehen ist, warb sie für ein Gewinnspiel, bei dem man zwei Tickets für die Finalshow nächste Woche in Düsseldorf gewinnen konnte. Und sie schrieb dazu: \"Ihr wollt nächste Woche beim Finale [...] nicht so wie Carmen und ich auf dem Sofa sitzen?!\""
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "content": "Einen konkreten Grund für Ihren Ausstieg bei der Show lieferte Vanessa jedoch nicht. In ihrem Statement sprach sie lediglich darüber, dass es noch zu früh sei, über die Gründe zu sprechen."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "content": "• <a href=\"https://www.focus.de/kultur/kino_tv/germanys-next-topmodel-gntm-schmeisst-vanessa-trotz-final-einzug-hin_id_10720072.html\">Den gesamten Bericht zum Aus von Vanessa lesen Sie hier.</a>"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "content": "Credit: Glomex"
+    },
+    {
+      "type": "text",
+      "tag": "h2",
+      "content": "Sehen Sie auch: Plötzlich taucht Lena mit gewagtem Outfit bei GNTM auf und stiehlt allen die Show"
+    },
+    {
+      "type": "video",
+      "title": "Plötzlich taucht Lena mit gewagtem Outfit bei \"GNTM\" auf und stiehlt allen die Show",
+      "alt": "",
+      "source": [
+        {
+          "type": "video/mp4",
+          "url": "https://dvsd-stream.glomex.com/content/v-bu4x6xrh3nnl/eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SWQiOiJ2LWJ1NHg2eHJoM25ubCIsImlhdCI6MTU1ODA3MTEwMiwiZXhwIjozMTM1OTUxMTAyfQ.MCwCFBu6DUmHNeDfeJk4mLJQdf6ebjPRAhQB0A8m8WEVrzxgAfkktWTyqNVUMQ/stream.mp4",
+          "mediaResolution": "HD"
+        },
+        {
+          "type": "video/mp4",
+          "url": "https://dvsd-stream.glomex.com/content/v-bu4x6xrh3nnl/eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SWQiOiJ2LWJ1NHg2eHJoM25ubCIsImlhdCI6MTU1ODA3MTEwMiwiZXhwIjozMTM1OTUxMTAyfQ.MCwCFBu6DUmHNeDfeJk4mLJQdf6ebjPRAhQB0A8m8WEVrzxgAfkktWTyqNVUMQ/stream.mp4",
+          "mediaResolution": "SD"
+        }
+      ],
+      "poster": "https://p5.focus.de/img/fotos/origs10722844/0576826067-w1920-h960-q72-p4/lena.jpg",
+      "credit": "FOCUS Online/Glomex",
+      "nsfw": false
+    }
+  ],
+  "mediaObject": {
+    "type": "video",
+    "title": "„GNTM“-Favoritin Vanessa schmeißt überraschend hin – hier spricht sie direkt zu Heidi",
+    "alt": "",
+    "source": [
+      {
+        "type": "video/mp4",
+        "url": "https://dvsd-stream.glomex.com/content/v-bu4mq735vunt/eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SWQiOiJ2LWJ1NG1xNzM1dnVudCIsImlhdCI6MTU1ODA3MTgxNCwiZXhwIjozMTM1OTUxODE0fQ.MCwCFCuIp4Ej90oFaahzxS_gObNH8smhAhQx-RptNmKZPs5JcUHTyVJIuvsJSg/stream.mp4",
+        "mediaResolution": "HD"
+      },
+      {
+        "type": "video/mp4",
+        "url": "https://dvsd-stream.glomex.com/content/v-bu4mq735vunt/eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SWQiOiJ2LWJ1NG1xNzM1dnVudCIsImlhdCI6MTU1ODA3MTgxNCwiZXhwIjozMTM1OTUxODE0fQ.MCwCFCuIp4Ej90oFaahzxS_gObNH8smhAhQx-RptNmKZPs5JcUHTyVJIuvsJSg/stream.mp4",
+        "mediaResolution": "SD"
+      }
+    ],
+    "poster": "https://p5.focus.de/img/fotos/origs10722885/5715951276-w1187-h960-q72-p4/gntm.jpg",
+    "credit": "FOCUS Online/Glomex",
+    "nsfw": false
+  },
+  "nsfw": false,
+  "authors": []
+}

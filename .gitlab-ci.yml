@@ -1,0 +1,64 @@
+image: node:14.15.4
+
+stages:
+  - install
+  - deploy
+
+cache:
+  paths:
+    - node_modules/
+
+install_dependencies:
+  stage: install
+  script:
+    - npm install
+  artifacts:
+    paths:
+      - node_modules/
+    expire_in: 1 week
+
+
+deploy_development:
+  stage: deploy
+  only:
+    - /^develop$/
+  script:
+    - apt update
+    - apt install awscli --yes
+    - KST=(`aws sts assume-role --role-arn $AWS_ROLE_ARN_DEV --role-session-name "deployment-$CI_COMMIT_REF_SLUG" --query '[Credentials.AccessKeyId,Credentials.SecretAccessKey,Credentials.SessionToken]' --output text`)
+    - export AWS_ACCESS_KEY_ID=${KST[0]}
+    - export AWS_SECRET_ACCESS_KEY=${KST[1]}
+    - export AWS_SESSION_TOKEN=${KST[2]}
+    - cd services/presentation-layer
+    - npm install
+    - npm run build:ssr && npm run deploy-dev
+     
+deploy_staging:
+  stage: deploy
+  only:
+    - /^release$/
+  script:
+    - apt update
+    - apt install awscli --yes
+    - KST=(`aws sts assume-role --role-arn $AWS_ROLE_ARN_STAGING --role-session-name "deployment-$CI_COMMIT_REF_SLUG" --query '[Credentials.AccessKeyId,Credentials.SecretAccessKey,Credentials.SessionToken]' --output text`)
+    - export AWS_ACCESS_KEY_ID=${KST[0]}
+    - export AWS_SECRET_ACCESS_KEY=${KST[1]}
+    - export AWS_SESSION_TOKEN=${KST[2]}
+    - cd services/presentation-layer
+    - npm install
+    - npm run build:ssr && npm run deploy-staging
+
+deploy_production:
+  stage: deploy
+  only:
+    - /^master$/
+  script:
+    - apt update
+    - apt install awscli --yes
+    - KST=(`aws sts assume-role --role-arn $AWS_ROLE_ARN_PROD --role-session-name "deployment-$CI_COMMIT_REF_SLUG" --query '[Credentials.AccessKeyId,Credentials.SecretAccessKey,Credentials.SessionToken]' --output text`)
+    - export AWS_ACCESS_KEY_ID=${KST[0]}
+    - export AWS_SECRET_ACCESS_KEY=${KST[1]}
+    - export AWS_SESSION_TOKEN=${KST[2]}
+    - cd services/presentation-layer
+    - npm install
+    - npm run build:ssr && npm run deploy-prod

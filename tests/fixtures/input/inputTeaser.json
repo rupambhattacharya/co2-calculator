@@ -1,0 +1,34 @@
+{
+	"image": {
+		"fsk_allowed": true,
+		"filename": "1485512721000-imgID6026205.jpg",
+		"subtext": "Polizei – Symbolbild",
+		"width": 600,
+		"host": "p5.focus.de/img/mob",
+		"type": "image",
+		"credit": "Jochen Tack",
+		"url": "https://p5.focus.de/img/fotos/origs6026205/3799348908-w600-h960-q72-p4/symbolbildquellepolizei20.jpg",
+		"height": 400
+	},
+	"overhead": "Polizeipräsidium Tuttlingen",
+	"label": null,
+	"type": "article_teaser",
+	"tracking": {
+		"articleTitleId": "9844544: Polizeipräsidium Tuttlingen: 25-Jähriger belästigt Gäste bei Halloween Party- Polizei sucht nach Zeugen",
+		"pageName": "/Regional/Lokale-Meldungen/Polizeipräsidium Tuttlingen/25-Jähriger belästigt Gäste bei Halloween Party- Polizei sucht nach Zeugen"
+	},
+	"url": "https://www.focus.de/regional/lokale-meldungen/polizeipraesidium-tuttlingen-25-jaehriger-belaestigt-gaeste-bei-halloween-party-polizei-sucht-nach-zeugen_id_9844544.html",
+	"path": [{
+		"name": "Regional",
+		"element": "regional"
+	}, {
+		"name": "Lokale-Meldungen",
+		"element": "lokale-meldungen"
+	}],
+	"ressort": "Regional",
+	"id": "9844544",
+	"text": "Bei einer Halloween-Party welche vom Mittwoch auf Donnerstag im ehemaligen Junghans-Areal \"Szene 64\" stattfand, soll ein 25-jähriger Mann mehrere Gäste, vor allem Frauen, sexuell belästigt haben.",
+	"credit": "Polizeipräsidium Tuttlingen/news aktuell",
+	"headline": "25-Jähriger belästigt Gäste bei Halloween Party- Polizei sucht nach Zeugen",
+	"timestamp": 1541168541
+}

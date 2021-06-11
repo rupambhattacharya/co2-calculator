@@ -1,0 +1,40 @@
+[
+  {
+    "type": "text",
+    "tag": "p",
+    "content": "Ist <a href=\"https://www.infranken.de/Rassismus:/\">Rassismus</a> lustig? Nein. Klischees und Vorurteile auch nicht, es sei denn, sie werden wie in der <a href=\"https://www.infranken.de/Kom%F6die:/\">Komödie</a> \"Monsieur Claude und seine <a href=\"https://www.infranken.de/T%F6chter:/\">Töchter</a>\" ad absurdum geführt. Ein Millionenpublikum lachte sich im Jahr 2014 im Kinofilm schlapp über den bourgeoisen Katholiken Monsieur Claude, dem die Töchter mit ihrer unorthodoxen Gattenwahl die Globalisierung direkt ins gediegene Wohnzimmer tragen."
+  },
+  {
+    "type": "text",
+    "tag": "p",
+    "content": "Die Bühnenfassung in zwei Akten (Text und Inszenierung von Stefan Zimmermann) machte den heiteren Auftakt in die Theatersaison des Kronacher Kreiskulturrings."
+  },
+  {
+    "type": "widget",
+    "service": "twitter",
+    "id": "1234567890",
+    "url": "https://t.co/testurl"
+  },
+  {
+    "type": "button",
+    "title": "Zur Weihnachtsdeko-Übersichtsseite",
+    "id": "9904699",
+    "alt": "",
+    "url": "http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=4&pub=5575163008&toolid=10001&campid=5338374422&customid=&mpre=https%253A%252F%252Fwww.ebay.de%252Fb%252FWeihnachtsdekorationen%252F170090%252Fbn_816583"
+  },
+  {
+    "type": "image",
+    "title": "",
+    "alt": "",
+    "credit": "net-buy24",
+    "nsfw": false,
+    "source": [
+      {
+        "type": "image/jpeg",
+        "height": 1000,
+        "width": 992,
+        "url": "https://p5.focus.de/img/fotos/origs9904738/0472783846-w992-h960-q72-p4/76821-led-herz.jpg"
+      }
+    ]
+  }
+]

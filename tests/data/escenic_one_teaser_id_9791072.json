@@ -1,0 +1,56 @@
+{
+  "content": {
+    "top_news": {
+      "items": [
+        {
+          "image": {
+            "fsk_allowed": true,
+            "filename": "1561989120000-imgID10883605.jpg",
+            "subtext": "Karim Benzema: Ein Jahrzehnt bei Real Madrid",
+            "width": 560,
+            "host": "p5.focus.de/img/mob",
+            "type": "image",
+            "credit": "FRANCK FIFE, DOMINIQUE FAGET/AFP/Getty Images",
+            "url": "https://p5.focus.de/img/fussball/origs10883605/9636718095-w560-h960-q72-p4/compressed-98e05019-ee1c-4b04-a769-ba38ac54d6fd.jpg",
+            "height": 327
+          },
+          "meta_settings": {
+            "date_activated": null,
+            "date_published": "1561989121",
+            "date_lastmodified": "1561989121",
+            "date_created": "1561989121",
+            "esc_src": "something",
+            "b_is_pn": true,
+            "date_expire": null,
+            "import_source": "realtotal_de",
+            "esc_src_id": "30561f943bd4d845d2ef0bb3fc4db5ec"
+          },
+          "overhead": null,
+          "label": null,
+          "type": "article_teaser",
+          "tracking": {
+            "articleTitleId": "10883606: Karim Benzema: Ein Jahrzehnt bei Real Madrid",
+            "pageName": "/Sport/Fußball//Karim Benzema: Ein Jahrzehnt bei Real Madrid"
+          },
+          "url": "https://www-beta.focus.de/sport/fussball/karim-benzema-ein-jahrzehnt-bei-real-madrid_id_10883606.html",
+          "path": [
+            {
+              "name": "Sport",
+              "element": "sport"
+            },
+            {
+              "name": "Fußball",
+              "element": "fussball"
+            }
+          ],
+          "ressort": "Sport",
+          "id": "10883606",
+          "text": "Auf den Tag genau vor zehn Jahren: Am 1. Juli 2009 gab Real Madrid die Verpflichtung von Karim Benzema offiziell bekannt. Es sollte der Beginn einer erfolgreichen Ära werden. REAL TOTAL blickt zurück auf ein Jahrzehnt mit dem französischen Mittelstürmer.",
+          "credit": "Real-Total",
+          "headline": "Karim Benzema: Ein Jahrzehnt bei Real Madrid",
+          "timestamp": 1561989121
+        }
+      ]
+    }
+  }
+}

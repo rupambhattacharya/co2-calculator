@@ -1,0 +1,16 @@
+{
+  "name": "co2-emission-calculator",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy-prod": "serverless deploy --stage prod",
+    "deploy-dev": "serverless deploy --stage dev"
+  },
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.907.0",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.45"
+  }
+}
