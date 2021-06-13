@@ -2,15 +2,41 @@
   "name": "co2-emission-calculator",
   "version": "1.0.0",
   "scripts": {
-    "deploy-prod": "serverless deploy --stage prod",
-    "deploy-dev": "serverless deploy --stage dev"
+    "test": "jest",
+    "lint": "eslint --ignore-path .gitignore ."
+  },
+  "pre-commit": [
+    "lint",
+    "test"
+  ],
+  "directories": {
+    "test": "tests"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverage": true,
+    "coverageReporters": [
+      "json",
+      "lcov",
+      "html",
+      "text"
+    ]
   },
   "private": true,
   "dependencies": {
-    "aws-sdk": "^2.907.0",
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "eslint-config-prettier": "^8.3.0"
   },
   "devDependencies": {
-    "@types/node": "^13.13.45"
+    "@types/node": "^13.13.45",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^22.21.0",
+    "eslint-plugin-node": "^10.0.0",
+    "jest": "^24.9.0",
+    "jest-when": "^2.7.0",
+    "pre-commit": "^1.2.2"
   }
 }

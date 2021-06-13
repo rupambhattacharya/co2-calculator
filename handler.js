@@ -1,4 +1,5 @@
 const Request = require('axios');
+require('dotenv').config()
 
 const co2Data = {
     'small-diesel-car': 142,
@@ -16,6 +17,8 @@ const co2Data = {
     'bus': 27,
     'train': 6
 }
+
+/* eslint-disable no-console */
 
 async function getCoordinates(token, loc) {
     const config = {
@@ -58,10 +61,14 @@ async function getDistance(token, lat1, long1, lat2, long2) {
         },
         data: body
     };
-    const data = Request(config).then(function (response, error) {
+
+    const data = Request(config).then(function (response) {
         const res = response.data.distances[1][0];
         return res;
     })
+        .catch(function (error) {
+            console.log(error);
+        });
     return data;
 }
 
@@ -69,44 +76,42 @@ function calculateConsumption(distance, mode) {
     const keys = Object.keys(co2Data);
     let co2Value;
     for (var i = 0; i < keys.length; i++) {
-        if (mode == keys[i]) co2Value = co2Data[mode];
+        if (mode.toString() === keys[i].toString()) co2Value = co2Data[mode];
     }
     const consumption = (distance * co2Value / 1000000).toFixed(2);
     return consumption;
 }
 
-const start = process.argv.slice(2);
-const end = process.argv.slice(3);
-const mode = process.argv.slice(4);
+
+const start = process.argv.slice(3);
+const end = process.argv.slice(5);
+const mode = process.argv.slice(7);
 
 async function compute() {
-    // store token in env variable
-    const token = '5b3ce3597851110001cf6248087667c7e9d4475abc3a2ad8c91e8d9b';
-    //check if the user inputs are valid
-    //call open route servide api to get lat, long 
-    try {
-        const coordinate1 = await getCoordinates(token, start);
-        const long1 = coordinate1[0];
-        const lat1 = coordinate1[1];
-        // add check if lat 1 and long 1 are set properly
-        const coordinate2 = await getCoordinates(token, end);
-        const long2 = coordinate2[0];
-        const lat2 = coordinate2[1];
-        // add check if lat 2 and long 2 are set properly
-        // calculate distance between two cities calling open route service api
-        const distance = await getDistance(token, lat1, long1, lat2, long2);
-        // add check if distance is a whole number
-        const output = calculateConsumption(distance, mode);
-        // add check if output is set properly
-        console.log(`Your trip caused ${output} kg of CO2-equivalent.`)
-    } catch (e) {
-        console.log(e);
+    if (start.length && end.length && mode.length !== 0) {
+        console.log(process.argv);
+        const token = process.env.ORS_TOKEN;
+        //call open route servide api to get lat, long 
+        try {
+            const coordinate1 = await getCoordinates(token, start);
+            const long1 = coordinate1[0];
+            const lat1 = coordinate1[1];
+            const coordinate2 = await getCoordinates(token, end);
+            const long2 = coordinate2[0];
+            const lat2 = coordinate2[1];
+            // calculate distance between two cities calling open route service api
+            const distance = await getDistance(token, lat1, long1, lat2, long2);
+            const output = calculateConsumption(distance, mode);
+            console.log(`Your trip caused ${output} kg of CO2-equivalent.`)
+            return 200;
+        } catch (e) {
+            console.log(e);
+            return 500;
+        }
     }
-    // write unit tests
-    // serverless for deployment to aws
-    // es lint in npm
-    // clean up repo
-    // gitlab yml
-    // upate read me
+    else {
+        console.log('Please input proper values');
+    }
 };
+module.exports = { compute };
 compute();
