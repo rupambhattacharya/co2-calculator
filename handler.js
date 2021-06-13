@@ -83,25 +83,24 @@ function calculateConsumption(distance, mode) {
 }
 
 
-const start = process.argv.slice(3);
-const end = process.argv.slice(5);
-const mode = process.argv.slice(7);
+const start = process.argv.slice(3, 4);
+const end = process.argv.slice(5, 6);
+const mode = process.argv.slice(7, 8);
 
 async function compute() {
     if (start.length && end.length && mode.length !== 0) {
-        console.log(process.argv);
         const token = process.env.ORS_TOKEN;
         //call open route servide api to get lat, long 
         try {
-            const coordinate1 = await getCoordinates(token, start);
+            const coordinate1 = await getCoordinates(token, start[0]);
             const long1 = coordinate1[0];
             const lat1 = coordinate1[1];
-            const coordinate2 = await getCoordinates(token, end);
+            const coordinate2 = await getCoordinates(token, end[0]);
             const long2 = coordinate2[0];
             const lat2 = coordinate2[1];
             // calculate distance between two cities calling open route service api
             const distance = await getDistance(token, lat1, long1, lat2, long2);
-            const output = calculateConsumption(distance, mode);
+            const output = calculateConsumption(distance, mode[0]);
             console.log(`Your trip caused ${output} kg of CO2-equivalent.`)
             return 200;
         } catch (e) {
@@ -111,6 +110,7 @@ async function compute() {
     }
     else {
         console.log('Please input proper values');
+        return 500;
     }
 };
 module.exports = { compute };
