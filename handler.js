@@ -18,8 +18,6 @@ const co2Data = {
     'train': 6
 }
 
-/* eslint-disable no-console */
-
 async function getCoordinates(token, loc) {
     const config = {
         method: 'GET',
