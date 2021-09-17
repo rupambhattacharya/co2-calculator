@@ -36,7 +36,6 @@
     "eslint-plugin-jest": "^22.21.0",
     "eslint-plugin-node": "^10.0.0",
     "jest": "^24.9.0",
-    "jest-when": "^2.7.0",
     "pre-commit": "^1.2.2"
   }
 }
